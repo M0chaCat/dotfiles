@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin - Key Management</title>
+    <link rel="icon" type="image/png" href="img/gams-g.png">
+    <style>
+        @font-face {
+            font-family: 'facon';
+            src: url('assets/facon.ttf') format('truetype');
+        }
+
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: 'Roboto', 'Arial', 'sans-serif', 'facon';
+            background: url('https://4kwallpapers.com/images/wallpapers/macos-big-sur-apple-layers-fluidic-colorful-wwdc-stock-2020-3840x2160-1455.jpg') no-repeat center center fixed;
+            background-size: cover;
+            color: #fff;
+            text-align: center;
+            min-height: 100vh;
+        }
+
+        .acrylic {
+            position: relative;
+            overflow: hidden;
+        }
+
+        .acrylic::before {
+            content: '';
+            position: absolute;
+            z-index: -1;
+            top: 0;
+            right: 0;
+            bottom: 0;
+            left: 0;
+            background-color: rgba(30, 30, 46, 0.7);
+            filter: blur(8px);
+            background-blend-mode: exclusion;
+        }
+
+        .container {
+            background-color: rgba(255, 255, 255, 0.1); /* Acrylic effect */
+            backdrop-filter: blur(10px); /* Blur effect for acrylic */
+            border-radius: 15px;
+            padding: 20px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            max-width: 600px;
+            margin: 50px auto;
+        }
+
+        h1 {
+            font-size: 36px;
+            margin-bottom: 20px;
+            font-weight: 700;
+        }
+
+        button {
+            background-color: rgba(33, 150, 243, 0.8); /* Acrylic button */
+            border: none;
+            color: white;
+            padding: 10px 20px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 4px 2px;
+            cursor: pointer;
+            border-radius: 5px;
+            transition: background-color 0.3s;
+        }
+
+        button:hover {
+            background-color: rgba(255, 255, 255, 0.3);
+        }
+
+        input[type="text"] {
+            width: 100%;
+            padding: 10px;
+            margin: 8px 0;
+            border: none;
+            border-radius: 5px;
+            box-sizing: border-box;
+            background-color: rgba(255, 255, 255, 0.2); /* Acrylic input */
+            color: #fff;
+        }
+    </style>
+</head>
+<body>
+    <div class="container acrylic">
+        <h1>Admin - Key Management</h1>
+        <button onclick="generateKey()">Generate New Key</button>
+        <p id="generatedKey" style="font-size: 24px; margin-top: 20px;"></p>
+        <h2>Verify Key</h2>
+        <input type="text" id="keyToVerify" placeholder="Enter key to verify">
+        <button onclick="verifyKey()">Verify Key</button>
+        <p id="verificationResult" style="font-size: 20px; margin-top: 10px;"></p>
+    </div>
+
+    <script>
+        const keys = new Set();
+
+        function generateKey() {
+            const characters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789';
+            let result = '';
+            for (let i = 0; i < 5; i++) {
+                result += characters.charAt(Math.floor(Math.random() * characters.length));
+            }
+            const timestamp = Date.now(); // Add timestamp for expiration
+            const keyObject = { key: result, createdAt: timestamp };
+            keys.add(JSON.stringify(keyObject)); // Store as JSON string
+            document.getElementById('generatedKey').textContent = `Generated Key: ${result}`;
+            
+            // Store keys in localStorage
+            localStorage.setItem('adminKeys', JSON.stringify(Array.from(keys)));
+        }
+
+        function verifyKey() {
+            const keyToVerify = document.getElementById('keyToVerify').value.toUpperCase();
+            const isValid = Array.from(keys).some(keyObject => {
+                const { key, createdAt } = JSON.parse(keyObject);
+                const isExpired = (Date.now() - createdAt) > 86400000; // 1 day expiration
+                return key === keyToVerify && !isExpired; // Check if key is valid and not expired
+            });
+            document.getElementById('verificationResult').textContent = isValid ? 'Valid Key' : 'Invalid Key';
+        }
+
+        // Load existing keys from localStorage
+        window.onload = function() {
+            const storedKeys = JSON.parse(localStorage.getItem('adminKeys'));
+            if (storedKeys) {
+                storedKeys.forEach(key => keys.add(key));
+            }
+        };
+    </script>
+</body>
+</html>

@@ -1,0 +1,5 @@
+{
+    "editor.fontFamily": "monocraft, Menlo, Monaco, 'Courier New', monospace, ",
+    "workbench.colorTheme": "Catppuccin Mocha",
+    "cursor.cpp.enablePartialAccepts": true
+}

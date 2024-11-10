@@ -1,0 +1,739 @@
+{
+    "name": "Arcane's Repo",
+    "manifest_version": 1,
+    "maintainers": [
+        {
+            "id": "808802000224518264",
+            "name": "3Catgirl (Arcane)"
+        }
+    ],
+    "thumbnail": "https://circulars.dev/circular-cat.gif",
+    "banner": "https://i.imgur.com/hWptMVC.png",
+    "description": "This is my repo :3",
+    "contents": [
+        {
+            "type": "plugin",
+            "name": "BANger",
+            "id": "cat.kitties.arcane.BANger",
+            "version": "1.0.0",
+            "short_description": "Replaces the GIF in the ban dialogue with a custom one. (has audio :3)",
+            "description": "Replaces the GIF in the ban dialogue with a custom one. (has audio :3)",
+            "thumbnail": "https://example.com/thumbnail.png",
+            "banner": "https://example.com/banner.png",
+            "file": "/Plugins/BANger.nkplugin.js",
+            "categories": [
+                "CUSTOMIZATION",
+                "UTILITIES",
+                "FUN"
+            ],
+            "tags": [
+                "ban",
+                "gif"
+            ],
+            "links": [
+                {
+                    "name": "GitHub",
+                    "type": "github",
+                    "url": "https://github.com/MeowArcane/PersonalSite/"
+                },
+                {
+                    "name": "Arcane's Site",
+                    "type": "website",
+                    "url": "https://arcane.kitties.cat"
+                }
+            ]
+        },
+        {
+            "type": "plugin",
+            "name": "Clean Channel Names",
+            "id": "cat.kitties.arcane.CleanChannelNames",
+            "version": "1.0.0",
+            "short_description": "Remove all emoji and decor shit from channel names.",
+            "description": "Remove all emoji and decor shit from channel names.",
+            "thumbnail": "https://example.com/thumbnail.png",
+            "banner": "https://example.com/banner.png",
+            "file": "/Plugins/CleanChannelNames.nkplugin.js",
+            "categories": [
+                "CUSTOMIZATION",
+                "UTILITIES"
+            ],
+            "tags": [
+                "channel",
+                "clean"
+            ],
+            "links": [
+                {
+                    "name": "GitHub",
+                    "type": "github",
+                    "url": "https://github.com/MeowArcane/PersonalSite/"
+                },
+                {
+                    "name": "Arcane's Site",
+                    "type": "website",
+                    "url": "https://arcane.kitties.cat"
+                }
+            ]
+        },
+        {
+            "type": "plugin",
+            "name": "Color Sighted",
+            "id": "cat.kitties.arcane.ColorSighted",
+            "version": "1.0.0",
+            "short_description": "Removes the colorblind-friendly icons from statuses.",
+            "description": "Removes the colorblind-friendly icons from statuses, just like 2015-2017 Discord.",
+            "thumbnail": "https://example.com/thumbnail.png",
+            "banner": "https://example.com/banner.png",
+            "file": "/Plugins/ColorSighted.nkplugin.js",
+            "categories": [
+                "CUSTOMIZATION",
+                "UTILITIES"
+            ],
+            "tags": [
+                "color",
+                "icons"
+            ],
+            "links": [
+                {
+                    "name": "GitHub",
+                    "type": "github",
+                    "url": "https://github.com/MeowArcane/PersonalSite/"
+                },
+                {
+                    "name": "Arcane's Site",
+                    "type": "website",
+                    "url": "https://arcane.kitties.cat"
+                }
+            ]
+        },
+        {
+            "type": "plugin",
+            "name": "Force Owner Crown",
+            "id": "cat.kitties.arcane.ForceOwnerCrown",
+            "version": "1.0.0",
+            "short_description": "Force the owner crown next to usernames.",
+            "description": "Force the owner crown next to usernames even if the server is large.",
+            "thumbnail": "https://example.com/thumbnail.png",
+            "banner": "https://example.com/banner.png",
+            "file": "/Plugins/ForceOwnerCrown.nkplugin.js",
+            "categories": [
+                "CUSTOMIZATION",
+                "UTILITIES"
+            ],
+            "tags": [
+                "owner",
+                "crown"
+            ],
+            "links": [
+                {
+                    "name": "GitHub",
+                    "type": "github",
+                    "url": "https://github.com/MeowArcane/PersonalSite/"
+                },
+                {
+                    "name": "Arcane's Site",
+                    "type": "website",
+                    "url": "https://arcane.kitties.cat"
+                }
+            ]
+        },
+        {
+            "type": "plugin",
+            "name": "Themess",
+            "id": "cat.kitties.arcane.themess",
+            "version": "1.0.0",
+            "short_description": "(HISTORICAL) Crappy Theme Loader.",
+            "description": "(HISTORICAL) Crappy Theme Loader, this was used on nekocord personally for/by me before themes were a feature.",
+            "thumbnail": "https://example.com/thumbnail.png",
+            "banner": "https://example.com/banner.png",
+            "file": "/Plugins/HISTORICALThemeLoader.nkplugin.js",
+            "categories": [
+                "CUSTOMIZATION"
+            ],
+            "tags": [
+                "theme",
+                "historical"
+            ],
+            "links": [
+                {
+                    "name": "GitHub",
+                    "type": "github",
+                    "url": "https://github.com/MeowArcane/PersonalSite/"
+                },
+                {
+                    "name": "Arcane's Site",
+                    "type": "website",
+                    "url": "https://arcane.kitties.cat"
+                }
+            ]
+        },
+        {
+            "type": "plugin",
+            "name": "NSFW Gate Bypass",
+            "id": "cat.kitties.arcane.NSFWGateBypass",
+            "version": "1.0.0",
+            "short_description": "Access NSFW channels without age verification.",
+            "description": "Allows you to access NSFW channels without setting/verifying your age.",
+            "thumbnail": "https://example.com/thumbnail.png",
+            "banner": "https://example.com/banner.png",
+            "file": "/Plugins/NSFWGateBypass.nkplugin.js",
+            "categories": [
+                "UTILITIES"
+            ],
+            "tags": [
+                "NSFW",
+                "bypass"
+            ],
+            "links": [
+                {
+                    "name": "GitHub",
+                    "type": "github",
+                    "url": "https://github.com/MeowArcane/PersonalSite/"
+                },
+                {
+                    "name": "Arcane's Site",
+                    "type": "website",
+                    "url": "https://arcane.kitties.cat"
+                }
+            ]
+        },
+        {
+            "type": "plugin",
+            "name": "PlusReact",
+            "id": "cat.kitties.arcane.PlusReact",
+            "version": "1.0.0",
+            "short_description": "React to previous message with emoji",
+            "description": "React to previous message with emoji, like +:star:",
+            "thumbnail": "https://example.com/thumbnail.png",
+            "banner": "https://example.com/banner.png",
+            "file": "/Plugins/PlusReact.nkplugin.js",
+            "categories": [
+                "QOL"
+            ],
+            "tags": [
+                "react",
+                "plusreact"
+            ],
+            "links": [
+                {
+                    "name": "GitHub",
+                    "type": "github",
+                    "url": "https://github.com/MeowArcane/PersonalSite/"
+                },
+                {
+                    "name": "Arcane's Site",
+                    "type": "website",
+                    "url": "https://arcane.kitties.cat"
+                }
+            ]
+        },
+        {
+            "type": "plugin",
+            "name": "No Typing Animation",
+            "id": "cat.kitties.arcane.NoTypingAnimation",
+            "version": "1.0.0",
+            "short_description": "Disables the CPU-intensive typing dots animation.",
+            "description": "Disables the CPU-intensive typing dots animation.",
+            "thumbnail": "https://example.com/thumbnail.png",
+            "banner": "https://example.com/banner.png",
+            "file": "/Plugins/NoTypingAnimation.nkplugin.js",
+            "categories": [
+                "UTILITIES"
+            ],
+            "tags": [
+                "typing",
+                "animation"
+            ],
+            "links": [
+                {
+                    "name": "GitHub",
+                    "type": "github",
+                    "url": "https://github.com/MeowArcane/PersonalSite/"
+                },
+                {
+                    "name": "Arcane's Site",
+                    "type": "website",
+                    "url": "https://arcane.kitties.cat"
+                }
+            ]
+        },
+        {
+            "type": "plugin",
+            "name": "No Unblock To Jump",
+            "id": "cat.kitties.arcane.NoUnblockToJump",
+            "version": "1.0.0",
+            "short_description": "Allows you to jump to messages of blocked users without unblocking them",
+            "description": "Allows you to jump to messages of blocked users without unblocking them",
+            "thumbnail": "https://example.com/thumbnail.png",
+            "banner": "https://example.com/banner.png",
+            "files": [
+                "/Plugins/NoUnblockToJump.nkplugin.js"
+            ],
+            "categories": [
+                "UTILITIES"
+            ],
+            "tags": [
+                "blocked",
+                "jump"
+            ],
+            "links": [
+                {
+                    "name": "GitHub",
+                    "type": "github",
+                    "url": "https://github.com/MeowArcane/PersonalSite/"
+                },
+                {
+                    "name": "Arcane's Site",
+                    "type": "website",
+                    "url": "https://arcane.kitties.cat"
+                }
+            ]
+        },
+        {
+            "type": "plugin",
+            "name": "Essentials",
+            "id": "cat.kitties.arcane.Essentials",
+            "version": "1.0.0",
+            "short_description": "Minor tweaks that make discord better!",
+            "description": "Minor tweaks that make discord better!",
+            "thumbnail": "https://arcane.kitties.cat/images/Essentials.png",
+            "banner": "https://example.com/banner.png",
+            "files": [
+                "/Plugins/Essentials.nkplugin.js"
+            ],
+            "categories": [
+                "QOL"
+            ],
+            "tags": [
+                "essential",
+                "essentials",
+                "toki pona",
+                "sitelen pona",
+                "arcane tweaks",
+                "Arcane Tweaks",
+                "ArcaneTweaks",
+                "arcanetweaks"
+            ],
+            "links": [
+                {
+                    "name": "GitHub",
+                    "type": "github",
+                    "url": "https://github.com/MeowArcane/PersonalSite/"
+                },
+                {
+                    "name": "Arcane's Site",
+                    "type": "website",
+                    "url": "https://arcane.kitties.cat"
+                }
+            ]
+        },
+        {
+            "type": "plugin",
+            "name": "Secret Ringtone Enabler",
+            "id": "cat.kitties.arcane.SecretRingtoneEnabler",
+            "version": "1.0.0",
+            "short_description": "Always play the secret version of the discord ringtone",
+            "description": "Always play the secret version of the discord ringtone (except during special ringtone events)",
+            "thumbnail": "https://example.com/thumbnail.png",
+            "banner": "https://example.com/banner.png",
+            "files": [
+                "/Plugins/SecretRingtoneEnabler.nkplugin.js"
+            ],
+            "categories": [
+                "CUSTOMIZATION",
+                "FUN"
+            ],
+            "tags": [
+                "ringtone",
+                "secret"
+            ],
+            "links": [
+                {
+                    "name": "GitHub",
+                    "type": "github",
+                    "url": "https://github.com/MeowArcane/PersonalSite/"
+                },
+                {
+                    "name": "Arcane's Site",
+                    "type": "website",
+                    "url": "https://arcane.kitties.cat"
+                }
+            ]
+        },
+        {
+            "type": "plugin",
+            "name": "Show All Message Buttons",
+            "id": "cat.kitties.arcane.ShowAllMessageButtons",
+            "version": "1.0.0",
+            "short_description": "Always show all message buttons",
+            "description": "Always show all message buttons no matter if you are holding the shift key or not.",
+            "thumbnail": "https://example.com/thumbnail.png",
+            "banner": "https://example.com/banner.png",
+            "files": [
+                "/Plugins/ShowAllMessageButtons.nkplugin.js"
+            ],
+            "categories": [
+                "QOL"
+            ],
+            "tags": [
+                "message",
+                "buttons"
+            ],
+            "links": [
+                {
+                    "name": "GitHub",
+                    "type": "github",
+                    "url": "https://github.com/MeowArcane/PersonalSite/"
+                },
+                {
+                    "name": "Arcane's Site",
+                    "type": "website",
+                    "url": "https://arcane.kitties.cat"
+                }
+            ]
+        },
+        {
+            "type": "plugin",
+            "name": "Summaries",
+            "id": "cat.kitties.arcane.Summaries",
+            "version": "1.0.0",
+            "short_description": "Enables Discord's experimental Summaries feature on every server",
+            "description": "Enables Discord's experimental Summaries feature on every server, displaying AI generated summaries of conversations",
+            "thumbnail": "https://example.com/thumbnail.png",
+            "banner": "https://example.com/banner.png",
+            "files": [
+                "/Plugins/Summaries.nkplugin.js"
+            ],
+            "categories": [
+                "UTILITIES",
+                "QOL"
+            ],
+            "tags": [
+                "summaries",
+                "AI"
+            ],
+            "links": [
+                {
+                    "name": "GitHub",
+                    "type": "github",
+                    "url": "https://github.com/MeowArcane/PersonalSite/"
+                },
+                {
+                    "name": "Arcane's Site",
+                    "type": "website",
+                    "url": "https://arcane.kitties.cat"
+                }
+            ]
+        },
+        {
+            "type": "plugin",
+            "name": "Unlimited Accounts",
+            "id": "cat.kitties.arcane.UnlimitedAccounts",
+            "version": "1.0.0",
+            "description": "Increases the amount of accounts you can add.",
+            "thumbnail": "https://example.com/thumbnail.png",
+            "banner": "https://example.com/banner.png",
+            "files": [
+                "/Plugins/UnlimitedAccounts.nkplugin.js"
+            ],
+            "categories": [
+                "UTILITIES"
+            ],
+            "tags": [
+                "accounts",
+                "unlimited"
+            ],
+            "links": [
+                {
+                    "name": "GitHub",
+                    "type": "github",
+                    "url": "https://github.com/MeowArcane/PersonalSite/"
+                },
+                {
+                    "name": "Arcane's Site",
+                    "type": "website",
+                    "url": "https://arcane.kitties.cat"
+                }
+            ]
+        },
+        {
+            "type": "plugin",
+            "name": "Always Animate",
+            "id": "cat.kitties.arcane.AlwaysAnimate",
+            "version": "1.0.0",
+            "short_description": "Animates anything that can be animated",
+            "description": "Animates anything that can be animated",
+            "thumbnail": "https://example.com/thumbnail.png",
+            "banner": "https://example.com/banner.png",
+            "files": [
+                "/Plugins/AlwaysAnimate.nkplugin.js"
+            ],
+            "categories": [
+                "FUN"
+            ],
+            "tags": [
+                "animate",
+                "animation"
+            ],
+            "links": [
+                {
+                    "name": "GitHub",
+                    "type": "github",
+                    "url": "https://github.com/MeowArcane/PersonalSite/"
+                },
+                {
+                    "name": "Arcane's Site",
+                    "type": "website",
+                    "url": "https://arcane.kitties.cat"
+                }
+            ]
+        },
+        {
+            "type": "plugin",
+            "name": "KeyboardSounds",
+            "id": "cat.kitties.arcane.KeyboardSounds",
+            "version": "1.0.0",
+            "short_description": "Play sounds when you press a key",
+            "description": "Play sounds when you press a key",
+            "thumbnail": "https://arcane.kitties.cat/images/kbsounds.png",
+            "banner": "https://example.com/banner.png",
+            "files": [
+                "/Plugins/kbsounds.nkplugin.js"
+            ],
+            "categories": [
+                "FUN"
+            ],
+            "tags": [
+                "keyboard",
+                "sound"
+            ],
+            "links": [
+                {
+                    "name": "GitHub",
+                    "type": "github",
+                    "url": "https://github.com/MeowArcane/PersonalSite/"
+                },
+                {
+                    "name": "Arcane's Site",
+                    "type": "website",
+                    "url": "https://arcane.kitties.cat"
+                }
+            ]
+        },
+        {
+            "type": "plugin",
+            "name": "Better GIF Picker",
+            "id": "cat.kitties.arcane.BetterGifPicker",
+            "version": "1.0.0",
+            "short_description": "Makes the gif picker open the favorite category by default",
+            "description": "Makes the gif picker open the favorite category by default",
+            "thumbnail": "https://example.com/thumbnail.png",
+            "banner": "https://example.com/banner.png",
+            "files": [
+                "/Plugins/BetterGifPicker.nkplugin.js"
+            ],
+            "categories": [
+                "UTILITIES",
+                "FUN"
+            ],
+            "tags": [
+                "GIF",
+                "picker"
+            ],
+            "links": [
+                {
+                    "name": "GitHub",
+                    "type": "github",
+                    "url": "https://github.com/MeowArcane/PersonalSite/"
+                },
+                {
+                    "name": "Arcane's Site",
+                    "type": "website",
+                    "url": "https://arcane.kitties.cat"
+                }
+            ]
+        },
+        {
+            "type": "plugin",
+            "name": "Better Upload Button",
+            "id": "cat.kitties.arcane.BetterUploadButton",
+            "version": "1.0.0",
+            "short_description": "Upload with a single click, open menu with right click",
+            "description": "Upload with a single click, open menu with right click",
+            "thumbnail": "https://example.com/thumbnail.png",
+            "banner": "https://example.com/banner.png",
+            "files": [
+                "/Plugins/BetterUploadButton.nkplugin.js"
+            ],
+            "categories": [
+                "QOL",
+                "UTILITIES"
+            ],
+            "tags": [
+                "upload",
+                "button"
+            ],
+            "links": [
+                {
+                    "name": "GitHub",
+                    "type": "github",
+                    "url": "https://github.com/MeowArcane/PersonalSite/"
+                },
+                {
+                    "name": "Arcane's Site",
+                    "type": "website",
+                    "url": "https://arcane.kitties.cat"
+                }
+            ]
+        },
+        {
+            "type": "plugin",
+            "name": "I Love Spam",
+            "id": "cat.kitties.arcane.ILoveSpam",
+            "version": "1.0.0",
+            "short_description": "Do not hide messages from 'likely spammers'",
+            "description": "Do not hide messages from 'likely spammers'",
+            "thumbnail": "https://example.com/thumbnail.png",
+            "banner": "https://example.com/banner.png",
+            "files": [
+                "/Plugins/ILoveSpam.nkplugin.js"
+            ],
+            "links": [
+                {
+                    "name": "GitHub",
+                    "type": "github",
+                    "url": "https://github.com/MeowArcane/PersonalSite/"
+                },
+                {
+                    "name": "Arcane's Site",
+                    "type": "website",
+                    "url": "https://arcane.kitties.cat"
+                }
+            ]
+        },
+        {
+            "type": "plugin",
+            "name": "No Profile Themes",
+            "id": "cat.kitties.arcane.NoProfileThemes",
+            "version": "1.0.0",
+            "short_description": "Completely removes Nitro profile themes",
+            "description": "Completely removes Nitro profile themes",
+            "thumbnail": "https://example.com/thumbnail.png",
+            "banner": "https://example.com/banner.png",
+            "files": [
+                "/Plugins/NoProfileThemes.nkplugin.js"
+            ],
+            "links": [
+                {
+                    "name": "GitHub",
+                    "type": "github",
+                    "url": "https://github.com/MeowArcane/PersonalSite/"
+                },
+                {
+                    "name": "Arcane's Site",
+                    "type": "website",
+                    "url": "https://arcane.kitties.cat"
+                }
+            ]
+        },
+        {
+            "type": "plugin",
+            "name": "oneko",
+            "id": "cat.kitties.arcane.oneko",
+            "version": "1.0.0",
+            "short_description": "meow meow meow meow meow meow meow meow",
+            "description": "cat follow mouse (real)",
+            "thumbnail": "https://arcane.kitties.cat/images/oneko.png",
+            "banner": "https://example.com/banner.png",
+            "files": [
+                "/Plugins/oneko.nkplugin.js"
+            ],
+            "links": [
+                {
+                    "name": "GitHub",
+                    "type": "github",
+                    "url": "https://github.com/MeowArcane/PersonalSite/"
+                },
+                {
+                    "name": "Arcane's Site",
+                    "type": "website",
+                    "url": "https://arcane.kitties.cat"
+                }
+            ]
+        },
+        {
+            "type": "theme",
+            "name": "sitelen pona o lon lipu Siko a",
+            "id": "cat.kitties.arcane.sitelenpona",
+            "version": "1.0.0",
+            "short_description": "ijo pi lukin sitelen pona",
+            "description": "ijo pi lukin sitelen pona, Enables the viewing of UCSUR sitelen pona in Discord.",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Sitelen_Pona.svg/200px-Sitelen_Pona.svg.png",
+            "banner": "https://res.cloudinary.com/teepublic/image/private/s--QoP97jbK--/ar_10:3,c_fill,h_300,w_1000/d_misc:cover-photo.jpg,f_jpg,q_auto:good/v1629571463/production/stores/848596/banner.jpg",
+            "files": [
+                "/Themes/sitelenpona.nktheme.css"
+            ],
+            "links": [
+                {
+                    "name": "GitHub",
+                    "type": "github",
+                    "url": "https://github.com/MeowArcane/PersonalSite/"
+                },
+                {
+                    "name": "Arcane's Site",
+                    "type": "website",
+                    "url": "https://arcane.kitties.cat"
+                }
+            ]
+        },
+        {
+            "type": "theme",
+            "name": "Catmoji",
+            "id": "cat.kitties.arcane.catmoji",
+            "version": "1.0.0",
+            "short_description": "Replaces all face emojis with cats!",
+            "description": "Replaces all face emojis with cats!",
+            "thumbnail": "https://arcane.kitties.cat/images/catmoji.png",
+            "banner": "https://example.com/banner.png",
+            "files": [
+                "/Themes/Catmoji.nktheme.css"
+            ],
+            "links": [
+                {
+                    "name": "GitHub",
+                    "type": "github",
+                    "url": "https://github.com/MeowArcane/PersonalSite/"
+                },
+                {
+                    "name": "Arcane's Site",
+                    "type": "website",
+                    "url": "https://arcane.kitties.cat"
+                }
+            ]
+        },
+        {
+            "type": "theme",
+            "name": "Midnight (Cappuccin Mocha)",
+            "id": "refact0r:midnightcappuccinmocha",
+            "version": "1.0.0",
+            "short_description": "A dark, rounded discord theme.",
+            "description": "A dark, rounded discord theme. Based on catppuccin mocha theme (https://github.com/catppuccin/catppuccin)",
+            "thumbnail": "https://private-user-images.githubusercontent.com/34758569/279550343-b831a8a7-1e7f-4114-9420-cbbb8e8f184f.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjIyNjc3NzMsIm5iZiI6MTcyMjI2NzQ3MywicGF0aCI6Ii8zNDc1ODU2OS8yNzk1NTAzNDMtYjgzMWE4YTctMWU3Zi00MTE0LTk0MjAtY2JiYjhlOGYxODRmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzI5VDE1Mzc1M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTk3ZWE3YjJiNWY2YjA5ZjAxZmQ1ZjYyMmVhNWQyZjZjYzdkNjVlYTg3YTE3OGI3ODYyNzgxZjhiYzFkNzI1MGQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.c7blkrhORsk_8UZnPVIMasX8fCz4VvP1Cpf8JyUjtes",
+            "banner": "https://example.com/banner.png",
+            "files": [
+                "/Themes/Midnight Cappuccin Mocha.nktheme.css"
+            ],
+            "links": [
+                {
+                    "name": "GitHub",
+                    "type": "github",
+                    "url": "https://github.com/MeowArcane/PersonalSite/"
+                },
+                {
+                    "name": "Arcane's Site",
+                    "type": "website",
+                    "url": "https://arcane.kitties.cat"
+                }
+            ]
+        }
+    ]
+}

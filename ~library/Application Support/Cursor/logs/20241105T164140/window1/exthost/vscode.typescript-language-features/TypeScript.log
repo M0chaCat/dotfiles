@@ -1,0 +1,31 @@
+2024-11-05 16:41:42.490 [info] Starting TS Server
+2024-11-05 16:41:42.490 [info] Using tsserver from: /Applications/Cursor.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js
+2024-11-05 16:41:42.490 [info] <syntax> Forking...
+2024-11-05 16:41:42.490 [info] <syntax> Starting...
+2024-11-05 16:41:42.490 [info] <semantic> Forking...
+2024-11-05 16:41:42.490 [info] <semantic> Starting...
+2024-11-05 16:41:43.484 [info] createDirectoryWatcher: /Users/arcane/Library/Application Support/nekocord/node_modules
+2024-11-05 16:41:43.484 [info] createDirectoryWatcher: /Users/arcane/Library/Application Support/node_modules
+2024-11-05 16:41:43.484 [info] createDirectoryWatcher: /Users/arcane/Library/node_modules
+2024-11-05 16:41:43.491 [info] createDirectoryWatcher: /Users/arcane/node_modules
+2024-11-05 16:41:43.672 [info] createDirectoryWatcher: /Applications/Cursor.app/Contents/Resources/app/extensions/node_modules
+2024-11-05 16:41:43.962 [info] createDirectoryWatcher: /Users/arcane/Library/Application Support
+2024-11-05 16:41:43.962 [info] createDirectoryWatcher: /Users/arcane/Library/Caches/typescript/5.5/node_modules
+2024-11-05 16:41:43.962 [info] createDirectoryWatcher: /Users/arcane/Library/Application Support/nekocord
+2024-11-05 16:41:43.964 [info] createDirectoryWatcher: /Users/arcane/Library/Application Support/nekocord/node_modules/@types
+2024-11-05 16:41:43.964 [info] createDirectoryWatcher: /Users/arcane/Library/Application Support/node_modules/@types
+2024-11-05 16:41:43.964 [info] createDirectoryWatcher: /Users/arcane/Library/node_modules/@types
+2024-11-05 16:41:43.977 [info] createDirectoryWatcher: /Users/arcane/Library/Application Support/nekocord/plugins
+2024-11-05 16:41:45.372 [info] createDirectoryWatcher: /Users/arcane/Library/Application Support/nekocord/bower_components
+2024-11-05 16:42:09.073 [info] Starting TS Server
+2024-11-05 16:42:09.073 [info] Using tsserver from: /Applications/Cursor.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js
+2024-11-05 16:42:09.073 [info] <syntax> Forking...
+2024-11-05 16:42:09.073 [info] <syntax> Starting...
+2024-11-05 16:42:09.073 [info] <semantic> Forking...
+2024-11-05 16:42:09.073 [info] <semantic> Starting...
+2024-11-05 16:42:09.774 [info] createDirectoryWatcher: /Users/arcane/NextOS - Equinox Max/node_modules
+2024-11-05 16:42:10.149 [info] createDirectoryWatcher: /Applications/Cursor.app/Contents/Resources/app/extensions/node_modules
+2024-11-05 16:42:10.513 [info] createDirectoryWatcher: /Users/arcane/NextOS - Equinox Max/node_modules/@types
+2024-11-05 16:42:11.541 [info] createDirectoryWatcher: /Users/arcane/NextOS - Equinox Max/bower_components
+2024-11-05 16:42:12.969 [info] createDirectoryWatcher: /Users/arcane/node_modules
+2024-11-05 16:42:13.218 [info] createDirectoryWatcher: /Users/arcane/Library/Caches/typescript/5.5/node_modules

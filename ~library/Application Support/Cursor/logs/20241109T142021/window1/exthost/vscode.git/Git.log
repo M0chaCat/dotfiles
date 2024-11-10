@@ -1,0 +1,13 @@
+2024-11-09 14:20:33.540 [info] [main] Log level: Info
+2024-11-09 14:20:34.112 [info] [main] Validating found git in: "/opt/homebrew/bin/git"
+2024-11-09 14:20:35.453 [info] [main] Using git "2.45.2" from "/opt/homebrew/bin/git"
+2024-11-09 14:20:35.453 [info] [Model][doInitialScan] Initial repository scan started
+2024-11-09 14:20:40.828 [info] > git rev-parse --show-toplevel [5137ms]
+2024-11-09 14:20:40.842 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-09 14:20:41.874 [info] > git rev-parse --show-toplevel [1007ms]
+2024-11-09 14:20:41.874 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-09 14:20:42.612 [info] > git rev-parse --show-toplevel [725ms]
+2024-11-09 14:20:42.612 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-09 14:20:44.425 [info] > git rev-parse --show-toplevel [1800ms]
+2024-11-09 14:20:44.425 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-09 14:20:44.426 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)

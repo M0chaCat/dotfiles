@@ -1,0 +1,385 @@
+2024-10-27 09:44:58.651 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-toolsai.datawrangler' wants API proposal 'debugFocus' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-10-27 09:44:58.651 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'apidev.azure-api-center' wants API proposal 'chatParticipant' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-10-27 09:44:58.652 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'apidev.azure-api-center' wants API proposal 'languageModels' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-10-27 09:44:59.097 [error] [uncaught exception in main]: SQLITE_CANTOPEN: unable to open database file: Error: SQLITE_CANTOPEN: unable to open database file
+2024-10-27 09:45:02.944 [info] [perf] Render performance baseline is 112ms
+2024-10-27 09:45:04.726 [info] Started local extension host with pid 1373.
+2024-10-27 09:56:28.210 [error] Failed to fetch: TypeError: Failed to fetch
+    at B.refreshMembershipType (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:2589:41494)
+2024-10-27 11:13:27.857 [error] [unavailable] HTTP 502: ConnectError: [unavailable] HTTP 502
+    at Object.F [as unary] (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3821:11898)
+    at async Object.getTeams (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:266:139385)
+    at async B.getTeams (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:2589:46252)
+    at async B.refreshMembershipType (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:2589:40703)
+2024-10-27 11:52:11.812 [info] Extension host (LocalProcess pid: 1373) is unresponsive.
+2024-10-27 11:52:12.648 [info] Extension host (LocalProcess pid: 1373) is responsive.
+2024-10-27 11:53:11.567 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2024-10-27 11:53:17.068 [info] Extension host (LocalProcess pid: 1373) is unresponsive.
+2024-10-27 11:53:20.020 [info] Extension host (LocalProcess pid: 1373) is responsive.
+2024-10-27 11:53:20.058 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2024-10-27 11:53:20.285 [info] UNRESPONSIVE extension host: starting to profile NOW
+2024-10-27 14:01:27.673 [error] [unavailable] HTTP 502: ConnectError: [unavailable] HTTP 502
+    at Object.F [as unary] (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3821:11898)
+    at async Object.getTeams (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:266:139385)
+    at async B.getTeams (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:2589:46252)
+    at async B.refreshMembershipType (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:2589:40703)
+2024-10-27 22:24:28.004 [error] [unavailable] HTTP 502: ConnectError: [unavailable] HTTP 502
+    at Object.F [as unary] (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3821:11898)
+    at async Object.availableModels (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:266:139385)
+    at async Ue.keepCppModelStateUpdated (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4342:13642)
+    at async Ue.loadCppConfigIncludingHandlingProAccess (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4358:1075)
+2024-10-27 22:47:12.288 [error] [unavailable] HTTP 502: ConnectError: [unavailable] HTTP 502
+    at Object.F [as unary] (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3821:11898)
+    at async Object.availableModels (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:266:139385)
+    at async Ue.keepCppModelStateUpdated (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4342:13642)
+    at async Ue.loadCppConfigIncludingHandlingProAccess (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4358:1075)
+2024-10-27 23:21:27.821 [error] Failed to fetch: TypeError: Failed to fetch
+    at B.refreshMembershipType (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:2589:41494)
+2024-10-27 23:24:27.940 [error] [unavailable] HTTP 502: ConnectError: [unavailable] HTTP 502
+    at Object.F [as unary] (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3821:11898)
+    at async Object.availableModels (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:266:139385)
+    at async Ue.keepCppModelStateUpdated (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4342:13642)
+    at async Ue.loadCppConfigIncludingHandlingProAccess (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4358:1075)
+2024-10-28 01:40:28.051 [error] [unavailable] HTTP 502: ConnectError: [unavailable] HTTP 502
+    at Object.F [as unary] (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3821:11898)
+    at async Object.availableModels (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:266:139385)
+    at async Ue.keepCppModelStateUpdated (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4342:13642)
+    at async Ue.loadCppConfigIncludingHandlingProAccess (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4358:1075)
+2024-10-28 02:36:27.597 [error] Failed to fetch: TypeError: Failed to fetch
+    at B.refreshMembershipType (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:2589:41494)
+2024-10-28 04:26:27.414 [error] [unavailable] HTTP 502: ConnectError: [unavailable] HTTP 502
+    at Object.F [as unary] (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3821:11898)
+    at async Object.getTeams (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:266:139385)
+    at async B.getTeams (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:2589:46252)
+    at async B.refreshMembershipType (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:2589:40703)
+2024-10-28 05:16:27.997 [error] [unavailable] HTTP 502: ConnectError: [unavailable] HTTP 502
+    at Object.F [as unary] (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3821:11898)
+    at async Object.availableModels (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:266:139385)
+    at async Ue.keepCppModelStateUpdated (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4342:13642)
+    at async Ue.loadCppConfigIncludingHandlingProAccess (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4358:1075)
+2024-10-28 05:28:27.424 [error] Failed to fetch: TypeError: Failed to fetch
+    at B.refreshMembershipType (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:2589:41494)
+2024-10-28 05:48:27.880 [error] [unavailable] HTTP 502: ConnectError: [unavailable] HTTP 502
+    at Object.F [as unary] (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3821:11898)
+    at async Object.cppConfig (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:266:139385)
+    at async Ue.loadCppConfigIncludingHandlingProAccess (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4358:1122)
+2024-10-28 05:49:28.113 [error] [unavailable] HTTP 502: ConnectError: [unavailable] HTTP 502
+    at Object.F [as unary] (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3821:11898)
+    at async Object.availableModels (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:266:139385)
+    at async Ue.keepCppModelStateUpdated (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4342:13642)
+    at async Ue.loadCppConfigIncludingHandlingProAccess (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4358:1075)
+2024-10-28 06:56:27.763 [error] [unavailable] HTTP 502: ConnectError: [unavailable] HTTP 502
+    at Object.F [as unary] (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3821:11898)
+    at async Object.cppConfig (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:266:139385)
+    at async Ue.loadCppConfigIncludingHandlingProAccess (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4358:1122)
+2024-10-28 07:15:27.309 [error] [unavailable] HTTP 502: ConnectError: [unavailable] HTTP 502
+    at Object.F [as unary] (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3821:11898)
+    at async Object.getTeams (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:266:139385)
+    at async B.getTeams (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:2589:46252)
+    at async B.refreshMembershipType (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:2589:40703)
+2024-10-28 07:17:27.601 [error] [unavailable] HTTP 502: ConnectError: [unavailable] HTTP 502
+    at Object.F [as unary] (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3821:11898)
+    at async Object.cppConfig (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:266:139385)
+    at async Ue.loadCppConfigIncludingHandlingProAccess (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4358:1122)
+2024-10-28 08:53:27.950 [error] [unavailable] HTTP 502: ConnectError: [unavailable] HTTP 502
+    at Object.F [as unary] (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3821:11898)
+    at async Object.cppConfig (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:266:139385)
+    at async Ue.loadCppConfigIncludingHandlingProAccess (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4358:1122)
+2024-10-28 11:50:27.313 [error] [unavailable] HTTP 502: ConnectError: [unavailable] HTTP 502
+    at Object.F [as unary] (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3821:11898)
+    at async Object.cppConfig (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:266:139385)
+    at async Ue.loadCppConfigIncludingHandlingProAccess (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4358:1122)
+2024-10-28 12:36:06.654 [error] [unavailable] HTTP 502: ConnectError: [unavailable] HTTP 502
+    at Object.F [as unary] (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3821:11898)
+    at async Object.cppConfig (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:266:139385)
+    at async Ue.loadCppConfigIncludingHandlingProAccess (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4358:1122)
+2024-10-28 12:38:08.471 [error] [unavailable] HTTP 502: ConnectError: [unavailable] HTTP 502
+    at Object.F [as unary] (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3821:11898)
+    at async Object.cppConfig (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:266:139385)
+    at async Ue.loadCppConfigIncludingHandlingProAccess (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4358:1122)
+2024-10-28 15:37:27.011 [error] [unavailable] HTTP 502: ConnectError: [unavailable] HTTP 502
+    at Object.F [as unary] (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3821:11898)
+    at async Object.availableModels (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:266:139385)
+    at async Ue.keepCppModelStateUpdated (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4342:13642)
+    at async Ue.loadCppConfigIncludingHandlingProAccess (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4358:1075)
+2024-10-28 15:38:27.200 [error] [unavailable] HTTP 502: ConnectError: [unavailable] HTTP 502
+    at Object.F [as unary] (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3821:11898)
+    at async Object.availableModels (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:266:139385)
+    at async Ue.keepCppModelStateUpdated (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4342:13642)
+    at async Ue.loadCppConfigIncludingHandlingProAccess (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4358:1075)
+2024-10-28 16:52:27.595 [error] [unavailable] HTTP 502: ConnectError: [unavailable] HTTP 502
+    at Object.F [as unary] (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3821:11898)
+    at async Object.cppConfig (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:266:139385)
+    at async Ue.loadCppConfigIncludingHandlingProAccess (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4358:1122)
+2024-10-28 17:10:06.228 [error] [unavailable] HTTP 502: ConnectError: [unavailable] HTTP 502
+    at Object.F [as unary] (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3821:11898)
+    at async Object.cppConfig (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:266:139385)
+    at async Ue.loadCppConfigIncludingHandlingProAccess (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4358:1122)
+2024-10-28 23:32:26.493 [error] [internal] internal error: ConnectError: [internal] internal error
+    at Object.F [as unary] (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3821:11898)
+    at async Object.getTeams (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:266:139385)
+    at async B.getTeams (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:2589:46252)
+    at async B.refreshMembershipType (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:2589:40703)
+2024-10-28 23:33:26.473 [error] [internal] internal error: ConnectError: [internal] internal error
+    at Object.F [as unary] (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3821:11898)
+    at async Object.getTeams (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:266:139385)
+    at async B.getTeams (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:2589:46252)
+    at async B.refreshMembershipType (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:2589:40703)
+2024-10-28 23:34:26.857 [error] [internal] internal error: ConnectError: [internal] internal error
+    at Object.F [as unary] (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3821:11898)
+    at async Object.getTeams (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:266:139385)
+    at async B.getTeams (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:2589:46252)
+    at async B.refreshMembershipType (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:2589:40703)
+2024-10-28 23:35:26.540 [error] [internal] internal error: ConnectError: [internal] internal error
+    at Object.F [as unary] (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3821:11898)
+    at async Object.getTeams (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:266:139385)
+    at async B.getTeams (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:2589:46252)
+    at async B.refreshMembershipType (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:2589:40703)
+2024-10-28 23:36:26.531 [error] [internal] internal error: ConnectError: [internal] internal error
+    at Object.F [as unary] (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3821:11898)
+    at async Object.getTeams (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:266:139385)
+    at async B.getTeams (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:2589:46252)
+    at async B.refreshMembershipType (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:2589:40703)
+2024-10-28 23:37:27.007 [error] [internal] internal error: ConnectError: [internal] internal error
+    at Object.F [as unary] (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3821:11898)
+    at async Object.cppConfig (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:266:139385)
+    at async Ue.loadCppConfigIncludingHandlingProAccess (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4358:1122)
+2024-10-28 23:38:26.562 [error] [internal] internal error: ConnectError: [internal] internal error
+    at Object.F [as unary] (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3821:11898)
+    at async Object.getTeams (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:266:139385)
+    at async B.getTeams (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:2589:46252)
+    at async B.refreshMembershipType (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:2589:40703)
+2024-10-28 23:39:26.963 [error] [internal] internal error: ConnectError: [internal] internal error
+    at Object.F [as unary] (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3821:11898)
+    at async Object.cppConfig (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:266:139385)
+    at async Ue.loadCppConfigIncludingHandlingProAccess (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4358:1122)
+2024-10-28 23:40:26.838 [error] [internal] internal error: ConnectError: [internal] internal error
+    at Object.F [as unary] (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3821:11898)
+    at async Object.getTeams (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:266:139385)
+    at async B.getTeams (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:2589:46252)
+    at async B.refreshMembershipType (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:2589:40703)
+2024-10-28 23:41:27.217 [error] [internal] internal error: ConnectError: [internal] internal error
+    at Object.F [as unary] (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3821:11898)
+    at async Object.getTeams (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:266:139385)
+    at async B.getTeams (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:2589:46252)
+    at async B.refreshMembershipType (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:2589:40703)
+2024-10-28 23:42:27.819 [error] [internal] internal error: ConnectError: [internal] internal error
+    at Object.F [as unary] (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3821:11898)
+    at async Object.cppConfig (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:266:139385)
+    at async Ue.loadCppConfigIncludingHandlingProAccess (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4358:1122)
+2024-10-28 23:44:27.350 [error] [internal] internal error: ConnectError: [internal] internal error
+    at Object.F [as unary] (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3821:11898)
+    at async Object.getTeams (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:266:139385)
+    at async B.getTeams (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:2589:46252)
+    at async B.refreshMembershipType (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:2589:40703)
+2024-10-28 23:45:26.521 [error] [internal] internal error: ConnectError: [internal] internal error
+    at Object.F [as unary] (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3821:11898)
+    at async Object.getTeams (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:266:139385)
+    at async B.getTeams (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:2589:46252)
+    at async B.refreshMembershipType (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:2589:40703)
+2024-10-28 23:47:26.761 [error] [internal] internal error: ConnectError: [internal] internal error
+    at Object.F [as unary] (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3821:11898)
+    at async Object.getTeams (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:266:139385)
+    at async B.getTeams (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:2589:46252)
+    at async B.refreshMembershipType (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:2589:40703)
+2024-10-29 01:59:27.331 [error] [unavailable] HTTP 502: ConnectError: [unavailable] HTTP 502
+    at Object.F [as unary] (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3821:11898)
+    at async Object.availableModels (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:266:139385)
+    at async Ue.keepCppModelStateUpdated (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4342:13642)
+    at async Ue.loadCppConfigIncludingHandlingProAccess (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4358:1075)
+2024-10-29 02:54:27.402 [error] [unavailable] HTTP 502: ConnectError: [unavailable] HTTP 502
+    at Object.F [as unary] (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3821:11898)
+    at async Object.availableModels (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:266:139385)
+    at async Ue.keepCppModelStateUpdated (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4342:13642)
+    at async Ue.loadCppConfigIncludingHandlingProAccess (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4358:1075)
+2024-10-29 02:56:26.542 [error] [unavailable] HTTP 502: ConnectError: [unavailable] HTTP 502
+    at Object.F [as unary] (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3821:11898)
+    at async Object.availableModels (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:266:139385)
+    at async Ue.keepCppModelStateUpdated (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4342:13642)
+    at async Ue.loadCppConfigIncludingHandlingProAccess (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4358:1075)
+2024-10-29 03:29:26.527 [error] [unavailable] HTTP 502: ConnectError: [unavailable] HTTP 502
+    at Object.F [as unary] (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3821:11898)
+    at async Object.availableModels (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:266:139385)
+    at async Ue.keepCppModelStateUpdated (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4342:13642)
+    at async Ue.loadCppConfigIncludingHandlingProAccess (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4358:1075)
+2024-10-29 03:39:27.014 [error] [unavailable] HTTP 502: ConnectError: [unavailable] HTTP 502
+    at Object.F [as unary] (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3821:11898)
+    at async Object.availableModels (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:266:139385)
+    at async Ue.keepCppModelStateUpdated (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4342:13642)
+    at async Ue.loadCppConfigIncludingHandlingProAccess (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4358:1075)
+2024-10-29 04:45:26.387 [error] [unavailable] HTTP 502: ConnectError: [unavailable] HTTP 502
+    at Object.F [as unary] (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3821:11898)
+    at async Object.availableModels (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:266:139385)
+    at async Ue.keepCppModelStateUpdated (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4342:13642)
+    at async Ue.loadCppConfigIncludingHandlingProAccess (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4358:1075)
+2024-10-29 05:03:26.457 [error] [unavailable] HTTP 502: ConnectError: [unavailable] HTTP 502
+    at Object.F [as unary] (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3821:11898)
+    at async Object.availableModels (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:266:139385)
+    at async Ue.keepCppModelStateUpdated (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4342:13642)
+    at async Ue.loadCppConfigIncludingHandlingProAccess (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4358:1075)
+2024-10-29 05:53:26.682 [error] [unavailable] HTTP 502: ConnectError: [unavailable] HTTP 502
+    at Object.F [as unary] (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3821:11898)
+    at async Object.cppConfig (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:266:139385)
+    at async Ue.loadCppConfigIncludingHandlingProAccess (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4358:1122)
+2024-10-29 06:13:26.950 [error] [unavailable] HTTP 502: ConnectError: [unavailable] HTTP 502
+    at Object.F [as unary] (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3821:11898)
+    at async Object.cppConfig (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:266:139385)
+    at async Ue.loadCppConfigIncludingHandlingProAccess (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4358:1122)
+2024-10-29 07:35:26.618 [error] [unavailable] HTTP 502: ConnectError: [unavailable] HTTP 502
+    at Object.F [as unary] (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3821:11898)
+    at async Object.cppConfig (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:266:139385)
+    at async Ue.loadCppConfigIncludingHandlingProAccess (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4358:1122)
+2024-10-29 08:04:26.336 [error] [unavailable] HTTP 502: ConnectError: [unavailable] HTTP 502
+    at Object.F [as unary] (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3821:11898)
+    at async Object.cppConfig (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:266:139385)
+    at async Ue.loadCppConfigIncludingHandlingProAccess (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4358:1122)
+2024-10-29 08:48:26.373 [error] [unavailable] HTTP 502: ConnectError: [unavailable] HTTP 502
+    at Object.F [as unary] (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3821:11898)
+    at async Object.cppConfig (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:266:139385)
+    at async Ue.loadCppConfigIncludingHandlingProAccess (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4358:1122)
+2024-10-29 08:53:26.262 [error] [unavailable] HTTP 502: ConnectError: [unavailable] HTTP 502
+    at Object.F [as unary] (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3821:11898)
+    at async Object.cppConfig (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:266:139385)
+    at async Ue.loadCppConfigIncludingHandlingProAccess (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4358:1122)
+2024-10-29 08:55:26.175 [error] [unavailable] HTTP 502: ConnectError: [unavailable] HTTP 502
+    at Object.F [as unary] (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3821:11898)
+    at async Object.cppConfig (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:266:139385)
+    at async Ue.loadCppConfigIncludingHandlingProAccess (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4358:1122)
+2024-10-29 10:12:26.876 [error] [unavailable] HTTP 502: ConnectError: [unavailable] HTTP 502
+    at Object.F [as unary] (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3821:11898)
+    at async Object.cppConfig (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:266:139385)
+    at async Ue.loadCppConfigIncludingHandlingProAccess (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4358:1122)
+2024-10-29 10:15:26.152 [error] [unavailable] HTTP 502: ConnectError: [unavailable] HTTP 502
+    at Object.F [as unary] (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3821:11898)
+    at async Object.availableModels (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:266:139385)
+    at async Ue.keepCppModelStateUpdated (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4342:13642)
+    at async Ue.loadCppConfigIncludingHandlingProAccess (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4358:1075)
+2024-10-29 10:35:26.987 [error] [unavailable] HTTP 502: ConnectError: [unavailable] HTTP 502
+    at Object.F [as unary] (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3821:11898)
+    at async Object.availableModels (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:266:139385)
+    at async Ue.keepCppModelStateUpdated (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4342:13642)
+    at async Ue.loadCppConfigIncludingHandlingProAccess (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4358:1075)
+2024-10-29 10:52:26.459 [error] [unavailable] HTTP 502: ConnectError: [unavailable] HTTP 502
+    at Object.F [as unary] (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3821:11898)
+    at async Object.cppConfig (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:266:139385)
+    at async Ue.loadCppConfigIncludingHandlingProAccess (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4358:1122)
+2024-10-29 12:41:26.226 [error] [unavailable] HTTP 502: ConnectError: [unavailable] HTTP 502
+    at Object.F [as unary] (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3821:11898)
+    at async Object.cppConfig (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:266:139385)
+    at async Ue.loadCppConfigIncludingHandlingProAccess (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4358:1122)
+2024-10-29 12:44:26.277 [error] [unavailable] HTTP 502: ConnectError: [unavailable] HTTP 502
+    at Object.F [as unary] (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3821:11898)
+    at async Object.cppConfig (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:266:139385)
+    at async Ue.loadCppConfigIncludingHandlingProAccess (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4358:1122)
+2024-10-29 22:17:25.832 [error] [unavailable] HTTP 502: ConnectError: [unavailable] HTTP 502
+    at Object.F [as unary] (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3821:11898)
+    at async Object.availableModels (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:266:139385)
+    at async Ue.keepCppModelStateUpdated (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4342:13642)
+    at async Ue.loadCppConfigIncludingHandlingProAccess (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4358:1075)
+2024-10-29 23:54:03.978 [error] [internal]: ConnectError: [internal]
+    at Object.F [as unary] (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3821:11898)
+    at async Object.getTeams (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:266:139385)
+    at async B.getTeams (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:2589:46252)
+    at async B.refreshMembershipType (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:2589:40703)
+2024-10-30 00:34:25.689 [error] [unavailable] HTTP 502: ConnectError: [unavailable] HTTP 502
+    at Object.F [as unary] (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3821:11898)
+    at async Object.availableModels (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:266:139385)
+    at async Ue.keepCppModelStateUpdated (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4342:13642)
+    at async Ue.loadCppConfigIncludingHandlingProAccess (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4358:1075)
+2024-10-30 02:29:25.690 [error] [unavailable] HTTP 502: ConnectError: [unavailable] HTTP 502
+    at Object.F [as unary] (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3821:11898)
+    at async Object.availableModels (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:266:139385)
+    at async Ue.keepCppModelStateUpdated (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4342:13642)
+    at async Ue.loadCppConfigIncludingHandlingProAccess (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4358:1075)
+2024-10-30 02:53:25.778 [error] Failed to fetch: TypeError: Failed to fetch
+    at B.refreshMembershipType (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:2589:41494)
+2024-10-30 03:02:25.643 [error] [unavailable] HTTP 502: ConnectError: [unavailable] HTTP 502
+    at Object.F [as unary] (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3821:11898)
+    at async Object.availableModels (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:266:139385)
+    at async Ue.keepCppModelStateUpdated (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4342:13642)
+    at async Ue.loadCppConfigIncludingHandlingProAccess (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4358:1075)
+2024-10-30 03:08:25.487 [error] [unavailable] HTTP 502: ConnectError: [unavailable] HTTP 502
+    at Object.F [as unary] (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3821:11898)
+    at async Object.availableModels (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:266:139385)
+    at async Ue.keepCppModelStateUpdated (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4342:13642)
+    at async Ue.loadCppConfigIncludingHandlingProAccess (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4358:1075)
+2024-10-30 03:32:25.907 [error] [unavailable] HTTP 502: ConnectError: [unavailable] HTTP 502
+    at Object.F [as unary] (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3821:11898)
+    at async Object.availableModels (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:266:139385)
+    at async Ue.keepCppModelStateUpdated (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4342:13642)
+    at async Ue.loadCppConfigIncludingHandlingProAccess (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4358:1075)
+2024-10-30 03:43:25.286 [error] [unavailable] HTTP 502: ConnectError: [unavailable] HTTP 502
+    at Object.F [as unary] (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3821:11898)
+    at async Object.getTeams (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:266:139385)
+    at async B.getTeams (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:2589:46252)
+    at async B.refreshMembershipType (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:2589:40703)
+2024-10-30 04:09:25.914 [error] [unavailable] HTTP 502: ConnectError: [unavailable] HTTP 502
+    at Object.F [as unary] (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3821:11898)
+    at async Object.availableModels (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:266:139385)
+    at async Ue.keepCppModelStateUpdated (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4342:13642)
+    at async Ue.loadCppConfigIncludingHandlingProAccess (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4358:1075)
+2024-10-30 04:11:25.663 [error] [unavailable] HTTP 502: ConnectError: [unavailable] HTTP 502
+    at Object.F [as unary] (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3821:11898)
+    at async Object.availableModels (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:266:139385)
+    at async Ue.keepCppModelStateUpdated (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4342:13642)
+    at async Ue.loadCppConfigIncludingHandlingProAccess (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4358:1075)
+2024-10-30 04:23:25.668 [error] [unavailable] HTTP 502: ConnectError: [unavailable] HTTP 502
+    at Object.F [as unary] (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3821:11898)
+    at async Object.availableModels (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:266:139385)
+    at async Ue.keepCppModelStateUpdated (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4342:13642)
+    at async Ue.loadCppConfigIncludingHandlingProAccess (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4358:1075)
+2024-10-30 04:25:26.633 [error] [unavailable] HTTP 502: ConnectError: [unavailable] HTTP 502
+    at Object.F [as unary] (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3821:11898)
+    at async Object.availableModels (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:266:139385)
+    at async Ue.keepCppModelStateUpdated (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4342:13642)
+    at async Ue.loadCppConfigIncludingHandlingProAccess (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4358:1075)
+2024-10-30 05:21:25.584 [error] [unavailable] HTTP 502: ConnectError: [unavailable] HTTP 502
+    at Object.F [as unary] (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3821:11898)
+    at async Object.availableModels (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:266:139385)
+    at async Ue.keepCppModelStateUpdated (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4342:13642)
+    at async Ue.loadCppConfigIncludingHandlingProAccess (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4358:1075)
+2024-10-30 05:23:25.462 [error] [unavailable] HTTP 502: ConnectError: [unavailable] HTTP 502
+    at Object.F [as unary] (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3821:11898)
+    at async Object.availableModels (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:266:139385)
+    at async Ue.keepCppModelStateUpdated (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4342:13642)
+    at async Ue.loadCppConfigIncludingHandlingProAccess (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4358:1075)
+2024-10-30 06:10:26.779 [error] [unavailable] HTTP 502: ConnectError: [unavailable] HTTP 502
+    at Object.F [as unary] (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3821:11898)
+    at async Object.availableModels (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:266:139385)
+    at async Ue.keepCppModelStateUpdated (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4342:13642)
+    at async Ue.loadCppConfigIncludingHandlingProAccess (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4358:1075)
+2024-10-30 07:44:25.426 [error] [unavailable] HTTP 502: ConnectError: [unavailable] HTTP 502
+    at Object.F [as unary] (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3821:11898)
+    at async Object.cppConfig (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:266:139385)
+    at async Ue.loadCppConfigIncludingHandlingProAccess (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4358:1122)
+2024-10-30 08:12:25.381 [error] [unavailable] HTTP 502: ConnectError: [unavailable] HTTP 502
+    at Object.F [as unary] (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3821:11898)
+    at async Object.availableModels (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:266:139385)
+    at async Ue.keepCppModelStateUpdated (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4342:13642)
+    at async Ue.loadCppConfigIncludingHandlingProAccess (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4358:1075)
+2024-10-30 09:11:25.341 [error] [unavailable] HTTP 502: ConnectError: [unavailable] HTTP 502
+    at Object.F [as unary] (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3821:11898)
+    at async Object.cppConfig (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:266:139385)
+    at async Ue.loadCppConfigIncludingHandlingProAccess (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4358:1122)
+2024-10-30 09:30:25.772 [error] [unavailable] HTTP 502: ConnectError: [unavailable] HTTP 502
+    at Object.F [as unary] (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3821:11898)
+    at async Object.cppConfig (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:266:139385)
+    at async Ue.loadCppConfigIncludingHandlingProAccess (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4358:1122)
+2024-10-30 09:53:25.403 [error] [unavailable] HTTP 502: ConnectError: [unavailable] HTTP 502
+    at Object.F [as unary] (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3821:11898)
+    at async Object.availableModels (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:266:139385)
+    at async Ue.keepCppModelStateUpdated (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4342:13642)
+    at async Ue.loadCppConfigIncludingHandlingProAccess (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4358:1075)
+2024-10-30 09:55:45.428 [error] [internal] internal error: ConnectError: [internal] internal error
+    at Object.F [as unary] (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3821:11898)
+    at async Object.cppConfig (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:266:139385)
+    at async Ue.loadCppConfigIncludingHandlingProAccess (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4358:1122)
+2024-10-30 10:24:25.248 [error] [unavailable] HTTP 502: ConnectError: [unavailable] HTTP 502
+    at Object.F [as unary] (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3821:11898)
+    at async Object.cppConfig (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:266:139385)
+    at async Ue.loadCppConfigIncludingHandlingProAccess (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4358:1122)
+2024-10-30 11:33:25.273 [error] [unavailable] HTTP 502: ConnectError: [unavailable] HTTP 502
+    at Object.F [as unary] (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:3821:11898)
+    at async Object.availableModels (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:266:139385)
+    at async Ue.keepCppModelStateUpdated (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4342:13642)
+    at async Ue.loadCppConfigIncludingHandlingProAccess (vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/workbench.desktop.main.js:4358:1075)

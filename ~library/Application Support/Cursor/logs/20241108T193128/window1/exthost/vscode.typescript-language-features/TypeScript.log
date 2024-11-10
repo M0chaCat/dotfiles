@@ -1,0 +1,13 @@
+2024-11-08 19:31:35.500 [info] Starting TS Server
+2024-11-08 19:31:35.500 [info] Using tsserver from: /Applications/Cursor.app/Contents/Resources/app/extensions/node_modules/typescript/lib/tsserver.js
+2024-11-08 19:31:35.500 [info] <syntax> Forking...
+2024-11-08 19:31:35.500 [info] <syntax> Starting...
+2024-11-08 19:31:35.500 [info] <semantic> Forking...
+2024-11-08 19:31:35.500 [info] <semantic> Starting...
+2024-11-08 19:31:38.489 [info] createDirectoryWatcher: /Users/arcane/NextOS - Equinox Max/node_modules
+2024-11-08 19:31:38.628 [info] createDirectoryWatcher: /Users/arcane/Library/Caches/typescript/5.5/node_modules
+2024-11-08 19:31:38.691 [info] createDirectoryWatcher: /Users/arcane/node_modules
+2024-11-08 19:31:39.518 [info] createDirectoryWatcher: /Applications/Cursor.app/Contents/Resources/app/extensions/node_modules
+2024-11-08 19:31:40.495 [info] createDirectoryWatcher: /Users/arcane/NextOS - Equinox Max/node_modules/@types
+2024-11-08 19:31:43.472 [info] createDirectoryWatcher: /Users/arcane/NextOS - Equinox Max/bower_components
+2024-11-08 21:20:37.891 [info] createDirectoryWatcher: /Users/arcane/NextOS - Equinox Max/dist

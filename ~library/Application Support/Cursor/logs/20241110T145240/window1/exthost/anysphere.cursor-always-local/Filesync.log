@@ -1,0 +1,21 @@
+2024-11-10 14:52:43.689 [info] File sync client created: https://api4.cursor.sh
+2024-11-10 14:52:43.852 [info] [ENABLED STATUS] Filesync is NOT enabled from server.
+2024-11-10 14:52:43.860 [error] Failed to fetch fsConfig [unknown] File sync is disabled
+2024-11-10 14:52:43.860 [error] Failed to fetch fsConfig [unknown] File sync is disabled
+2024-11-10 14:52:44.161 [info] [registerEventListeners] Registering event listeners
+2024-11-10 14:52:44.329 [info] [ENABLED STATUS] Filesync is NOT enabled from server.
+2024-11-10 14:52:44.329 [error] Failed to fetch fsConfig [unknown] File sync is disabled
+2024-11-10 14:52:44.329 [error] Failed to fetch fsConfig [unknown] File sync is disabled
+2024-11-10 14:52:44.329 [info] File sync enabled status: false
+2024-11-10 14:52:44.465 [info] [ENABLED STATUS] Filesync is NOT enabled from server.
+2024-11-10 14:52:44.466 [error] Failed to fetch fsConfig [unknown] File sync is disabled
+2024-11-10 14:52:44.466 [error] Failed to fetch fsConfig [unknown] File sync is disabled
+2024-11-10 14:52:44.466 [info] File sync enabled status: false
+2024-11-10 14:52:44.467 [info] [ENABLED STATUS] Filesync is NOT enabled from server.
+2024-11-10 14:52:44.467 [error] Failed to fetch fsConfig [unknown] File sync is disabled
+2024-11-10 14:52:44.467 [error] Failed to fetch fsConfig [unknown] File sync is disabled
+2024-11-10 14:52:44.467 [info] File sync enabled status: false
+2024-11-10 14:52:45.283 [info] File sync client created: https://us-only.gcpp.cursor.sh
+2024-11-10 14:52:45.445 [info] [ENABLED STATUS] Filesync is NOT enabled from server.
+2024-11-10 14:52:45.445 [error] Failed to fetch fsConfig [unknown] File sync is disabled
+2024-11-10 14:52:45.445 [error] Failed to fetch fsConfig [unknown] File sync is disabled

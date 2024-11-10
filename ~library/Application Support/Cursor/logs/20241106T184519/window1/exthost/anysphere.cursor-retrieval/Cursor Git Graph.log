@@ -1,0 +1,169 @@
+2024-11-06 18:45:21.852 [info] Using repo backend url https://repo42.cursor.sh
+2024-11-06 18:45:22.335 [info] Git graph is enabled
+2024-11-06 18:45:22.495 [info] Using repo backend url https://repo42.cursor.sh
+2024-11-06 18:45:22.495 [info] Git graph is enabled
+2024-11-06 18:45:22.675 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /Users/arcane/NextOS - Equinox Max/your-code.js
+2024-11-06 18:45:23.352 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /Users/arcane/NextOS - Equinox Max/NextOS 1.0.zip
+2024-11-06 18:45:28.591 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /Users/arcane/NextOS - Equinox Max/NextOS 1.0.zip
+2024-11-06 18:45:28.592 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /Users/arcane/NextOS - Equinox Max/NextOS 1.0.zip
+2024-11-06 18:46:23.210 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /Users/arcane/NextOS - Equinox Max/normal.PNG
+2024-11-06 18:46:59.650 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /Users/arcane/NextOS - Equinox Max/NextOS 1.0.zip
+2024-11-06 18:46:59.651 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /Users/arcane/NextOS - Equinox Max/NextOS 1.0.zip
+2024-11-06 18:47:00.150 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /Users/arcane/NextOS - Equinox Max/Next 10-7-6k.png
+2024-11-06 18:47:01.119 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /Users/arcane/NextOS - Equinox Max/music.png
+2024-11-06 18:47:02.009 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /Users/arcane/NextOS - Equinox Max/main.js
+2024-11-06 18:47:07.575 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /Users/arcane/NextOS - Equinox Max/your-code.js
+2024-11-06 18:47:07.575 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /Users/arcane/NextOS - Equinox Max/your-code.js
+2024-11-06 18:50:24.962 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /Users/arcane/NextOS - Equinox Max/package.json
+2024-11-06 18:54:47.221 [info] Using repo backend url https://repo42.cursor.sh
+2024-11-06 18:54:47.712 [info] Git graph is enabled
+2024-11-06 18:54:47.753 [info] Using repo backend url https://repo42.cursor.sh
+2024-11-06 18:54:47.753 [info] Git graph is enabled
+2024-11-06 18:54:49.900 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /Users/arcane/Dusk - Equinox Max/your-code.js
+2024-11-06 18:59:30.452 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /Users/arcane/Dusk - Equinox Max/main.js
+2024-11-06 18:59:32.629 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /Users/arcane/Dusk - Equinox Max/commands.js
+2024-11-06 18:59:38.878 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /Users/arcane/Dusk - Equinox Max/your-code.js
+2024-11-06 18:59:38.879 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /Users/arcane/Dusk - Equinox Max/your-code.js
+2024-11-06 19:01:38.058 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /Users/arcane/Dusk - Equinox Max/main.js
+2024-11-06 19:01:38.059 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /Users/arcane/Dusk - Equinox Max/main.js
+2024-11-06 19:01:39.493 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /Users/arcane/Dusk - Equinox Max/your-code.js
+2024-11-06 19:01:39.493 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /Users/arcane/Dusk - Equinox Max/your-code.js
+2024-11-06 19:07:36.056 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /Users/arcane/Dusk - Equinox Max/commands.js
+2024-11-06 19:07:39.154 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /Users/arcane/Dusk - Equinox Max/your-code.js
+2024-11-06 19:22:03.244 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /Users/arcane/Dusk - Equinox Max/userCommands.js
+2024-11-06 19:22:06.408 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /Users/arcane/Dusk - Equinox Max/your-code.js
+2024-11-06 19:23:28.214 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /Users/arcane/Dusk - Equinox Max/userCommands.js
+2024-11-06 19:23:28.215 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /Users/arcane/Dusk - Equinox Max/userCommands.js
+2024-11-06 19:23:44.404 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /Users/arcane/Dusk - Equinox Max/your-code.js
+2024-11-06 19:23:44.405 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /Users/arcane/Dusk - Equinox Max/your-code.js
+2024-11-06 19:24:06.363 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /Users/arcane/Dusk - Equinox Max/main.js
+2024-11-06 19:24:08.013 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /Users/arcane/Dusk - Equinox Max/cogs.png
+2024-11-06 19:24:08.390 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /Users/arcane/Dusk - Equinox Max/combine-scripts.js
+2024-11-06 19:24:46.188 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /Users/arcane/Dusk - Equinox Max/commands.js
+2024-11-06 19:24:46.578 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /Users/arcane/Dusk - Equinox Max/combined.js
+2024-11-06 19:24:52.639 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /Users/arcane/Dusk - Equinox Max/combine-scripts.js
+2024-11-06 19:24:52.639 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /Users/arcane/Dusk - Equinox Max/combine-scripts.js
+2024-11-06 19:25:02.556 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /Users/arcane/Dusk - Equinox Max/combined.js
+2024-11-06 19:25:02.556 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /Users/arcane/Dusk - Equinox Max/combined.js
+2024-11-06 19:25:10.428 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /Users/arcane/Dusk - Equinox Max/your-code.js
+2024-11-06 19:25:10.428 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /Users/arcane/Dusk - Equinox Max/your-code.js
+2024-11-06 19:25:15.066 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /Users/arcane/Dusk - Equinox Max/your-code.js
+2024-11-06 19:25:15.066 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /Users/arcane/Dusk - Equinox Max/your-code.js
+2024-11-06 19:25:33.789 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /Users/arcane/Dusk - Equinox Max/tips.png
+2024-11-06 19:25:34.158 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /Users/arcane/Dusk - Equinox Max/userCommands.js
+2024-11-06 19:25:34.158 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /Users/arcane/Dusk - Equinox Max/userCommands.js
+2024-11-06 19:25:56.991 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /Users/arcane/Dusk - Equinox Max/your-code.js
+2024-11-06 19:25:56.991 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /Users/arcane/Dusk - Equinox Max/your-code.js
+2024-11-06 19:27:25.805 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /Users/arcane/Dusk - Equinox Max/userCommands.js
+2024-11-06 19:27:25.805 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /Users/arcane/Dusk - Equinox Max/userCommands.js
+2024-11-06 19:27:29.596 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /Users/arcane/Dusk - Equinox Max/your-code.js
+2024-11-06 19:27:29.596 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /Users/arcane/Dusk - Equinox Max/your-code.js
+2024-11-06 19:27:45.289 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /Users/arcane/Dusk - Equinox Max/userCommands.js
+2024-11-06 19:27:45.289 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /Users/arcane/Dusk - Equinox Max/userCommands.js
+2024-11-06 19:30:23.154 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /Users/arcane/Dusk - Equinox Max/your-code.js
+2024-11-06 19:30:23.154 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /Users/arcane/Dusk - Equinox Max/your-code.js
+2024-11-06 19:30:32.175 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /Users/arcane/Dusk - Equinox Max/userCommands.js
+2024-11-06 19:30:32.175 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /Users/arcane/Dusk - Equinox Max/userCommands.js
+2024-11-06 19:31:47.396 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /Users/arcane/Dusk - Equinox Max/your-code.js
+2024-11-06 19:31:47.397 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /Users/arcane/Dusk - Equinox Max/your-code.js
+2024-11-06 19:32:28.474 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /Users/arcane/Dusk - Equinox Max/userCommands.js
+2024-11-06 19:32:28.475 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /Users/arcane/Dusk - Equinox Max/userCommands.js
+2024-11-06 19:32:49.042 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /Users/arcane/Dusk - Equinox Max/combine-scripts.js
+2024-11-06 19:33:11.489 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /Users/arcane/Dusk - Equinox Max/main.js
+2024-11-06 19:33:12.623 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /Users/arcane/Dusk - Equinox Max/your-code.js
+2024-11-06 19:33:12.624 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /Users/arcane/Dusk - Equinox Max/your-code.js
+2024-11-06 19:33:37.805 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /Users/arcane/Dusk - Equinox Max/combined.js
+2024-11-06 19:33:43.089 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /Users/arcane/Dusk - Equinox Max/your-code.js
+2024-11-06 19:33:43.089 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /Users/arcane/Dusk - Equinox Max/your-code.js
+2024-11-06 19:33:44.777 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /Users/arcane/Dusk - Equinox Max/userCommands.js
+2024-11-06 19:33:44.777 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /Users/arcane/Dusk - Equinox Max/userCommands.js
+2024-11-06 19:33:47.505 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /Users/arcane/Dusk - Equinox Max/combined.js
+2024-11-06 19:33:47.505 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /Users/arcane/Dusk - Equinox Max/combined.js
+2024-11-06 19:34:08.581 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /Users/arcane/Dusk - Equinox Max/your-code.js
+2024-11-06 19:34:08.581 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /Users/arcane/Dusk - Equinox Max/your-code.js
+2024-11-06 19:34:09.322 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /Users/arcane/Dusk - Equinox Max/userCommands.js
+2024-11-06 19:34:09.322 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /Users/arcane/Dusk - Equinox Max/userCommands.js
+2024-11-06 19:34:11.970 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /Users/arcane/Dusk - Equinox Max/your-code.js
+2024-11-06 19:34:11.970 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /Users/arcane/Dusk - Equinox Max/your-code.js
+2024-11-06 19:35:09.748 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /Users/arcane/Dusk - Equinox Max/combined.js
+2024-11-06 19:35:09.748 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /Users/arcane/Dusk - Equinox Max/combined.js
+2024-11-06 19:35:14.042 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /Users/arcane/Dusk - Equinox Max/combine-scripts.js
+2024-11-06 19:35:14.042 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /Users/arcane/Dusk - Equinox Max/combine-scripts.js
+2024-11-06 19:36:54.223 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /Users/arcane/Dusk - Equinox Max/combined.js
+2024-11-06 19:36:54.223 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /Users/arcane/Dusk - Equinox Max/combined.js
+2024-11-06 19:37:20.160 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /Users/arcane/Dusk - Equinox Max/your-code.js
+2024-11-06 19:37:20.160 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /Users/arcane/Dusk - Equinox Max/your-code.js
+2024-11-06 19:37:57.893 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /Users/arcane/Dusk - Equinox Max/userCommands.js
+2024-11-06 19:37:57.893 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /Users/arcane/Dusk - Equinox Max/userCommands.js
+2024-11-06 19:54:47.432 [error] Failed to check if git graph is enabled [internal] Stream closed with error code NGHTTP2_REFUSED_STREAM
+2024-11-06 20:01:55.338 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /Users/arcane/Dusk - Equinox Max/your-code.js
+2024-11-06 20:02:10.119 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /Users/arcane/Dusk - Equinox Max/userCommands.js
+2024-11-06 20:14:47.394 [error] Failed to check if git graph is enabled [internal] Stream closed with error code NGHTTP2_REFUSED_STREAM
+2024-11-06 20:49:47.398 [error] Failed to check if git graph is enabled [internal] Stream closed with error code NGHTTP2_REFUSED_STREAM
+2024-11-06 21:29:47.410 [error] Failed to check if git graph is enabled [internal] Stream closed with error code NGHTTP2_REFUSED_STREAM
+2024-11-06 21:59:47.452 [error] Failed to check if git graph is enabled [internal] Stream closed with error code NGHTTP2_REFUSED_STREAM
+2024-11-06 22:39:47.406 [error] Failed to check if git graph is enabled [internal] Stream closed with error code NGHTTP2_REFUSED_STREAM
+2024-11-06 23:34:47.399 [error] Failed to check if git graph is enabled [internal] Stream closed with error code NGHTTP2_REFUSED_STREAM
+2024-11-07 00:24:47.441 [error] Failed to check if git graph is enabled [internal] Stream closed with error code NGHTTP2_REFUSED_STREAM
+2024-11-07 00:44:47.418 [error] Failed to check if git graph is enabled [internal] Stream closed with error code NGHTTP2_REFUSED_STREAM
+2024-11-07 00:54:47.457 [error] Failed to check if git graph is enabled [internal] Stream closed with error code NGHTTP2_REFUSED_STREAM
+2024-11-07 13:54:47.561 [error] Failed to check if git graph is enabled [internal] Stream closed with error code NGHTTP2_REFUSED_STREAM
+2024-11-07 14:09:47.552 [error] Failed to check if git graph is enabled [internal] Stream closed with error code NGHTTP2_REFUSED_STREAM
+2024-11-07 14:29:47.548 [error] Failed to check if git graph is enabled [internal] Stream closed with error code NGHTTP2_REFUSED_STREAM
+2024-11-07 14:39:47.529 [error] Failed to check if git graph is enabled [aborted] read ECONNRESET
+2024-11-07 15:04:47.630 [error] Failed to check if git graph is enabled [internal] Stream closed with error code NGHTTP2_REFUSED_STREAM
+2024-11-07 15:14:47.875 [error] Failed to check if git graph is enabled [internal] Stream closed with error code NGHTTP2_REFUSED_STREAM
+2024-11-07 16:09:47.667 [error] Failed to check if git graph is enabled [internal] Stream closed with error code NGHTTP2_REFUSED_STREAM
+2024-11-07 16:45:06.546 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /Users/arcane/Dusk - Equinox Max/your-code.js
+2024-11-07 16:45:12.729 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /Users/arcane/Dusk - Equinox Max/commands.js
+2024-11-07 16:45:13.189 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /Users/arcane/Dusk - Equinox Max/combined.js
+2024-11-07 16:45:31.972 [info] Using repo backend url https://repo42.cursor.sh
+2024-11-07 16:45:32.284 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /Users/arcane/NextOS - Equinox Max/your-code.js
+2024-11-07 16:45:32.364 [info] Git graph is enabled
+2024-11-07 16:45:32.572 [info] Using repo backend url https://repo42.cursor.sh
+2024-11-07 16:45:32.572 [info] Git graph is enabled
+2024-11-07 16:45:32.859 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /Users/arcane/NextOS - Equinox Max/your-code.js
+2024-11-07 16:45:32.859 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /Users/arcane/NextOS - Equinox Max/your-code.js
+2024-11-07 16:45:35.521 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /Users/arcane/NextOS - Equinox Max/combined.js
+2024-11-07 16:45:50.935 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /Users/arcane/NextOS - Equinox Max/your-code.js
+2024-11-07 16:45:50.936 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /Users/arcane/NextOS - Equinox Max/your-code.js
+2024-11-07 19:00:32.068 [error] Failed to check if git graph is enabled [internal] Stream closed with error code NGHTTP2_REFUSED_STREAM
+2024-11-07 19:35:32.088 [error] Failed to check if git graph is enabled [internal] Stream closed with error code NGHTTP2_REFUSED_STREAM
+2024-11-07 19:50:32.218 [error] Failed to check if git graph is enabled [internal] Stream closed with error code NGHTTP2_REFUSED_STREAM
+2024-11-07 20:05:32.232 [error] Failed to check if git graph is enabled [internal] Stream closed with error code NGHTTP2_REFUSED_STREAM
+2024-11-07 21:00:32.255 [error] Failed to check if git graph is enabled [internal] Stream closed with error code NGHTTP2_REFUSED_STREAM
+2024-11-07 21:30:32.274 [error] Failed to check if git graph is enabled [internal] Stream closed with error code NGHTTP2_REFUSED_STREAM
+2024-11-07 22:10:32.179 [error] Failed to check if git graph is enabled [aborted] read ECONNRESET
+2024-11-07 22:25:32.180 [error] Failed to check if git graph is enabled [aborted] read ECONNRESET
+2024-11-07 22:35:32.167 [error] Failed to check if git graph is enabled [aborted] read ECONNRESET
+2024-11-07 22:45:32.240 [error] Failed to check if git graph is enabled [aborted] read ECONNRESET
+2024-11-07 22:55:32.236 [error] Failed to check if git graph is enabled [aborted] read ECONNRESET
+2024-11-07 23:05:33.142 [error] Failed to check if git graph is enabled [aborted] read ECONNRESET
+2024-11-07 23:15:32.266 [error] Failed to check if git graph is enabled [aborted] read ECONNRESET
+2024-11-07 23:25:33.883 [error] Failed to check if git graph is enabled [aborted] read ECONNRESET
+2024-11-07 23:35:32.254 [error] Failed to check if git graph is enabled [aborted] read ECONNRESET
+2024-11-07 23:45:32.255 [error] Failed to check if git graph is enabled [aborted] read ECONNRESET
+2024-11-07 23:55:32.285 [error] Failed to check if git graph is enabled [aborted] read ECONNRESET
+2024-11-08 00:15:32.393 [error] Failed to check if git graph is enabled [internal] Stream closed with error code NGHTTP2_REFUSED_STREAM
+2024-11-08 06:00:32.579 [error] Failed to check if git graph is enabled [internal] Stream closed with error code NGHTTP2_REFUSED_STREAM
+2024-11-08 09:00:32.648 [error] Failed to check if git graph is enabled [internal] Stream closed with error code NGHTTP2_REFUSED_STREAM
+2024-11-08 10:30:32.703 [error] Failed to check if git graph is enabled [internal] Stream closed with error code NGHTTP2_REFUSED_STREAM
+2024-11-08 10:45:32.706 [error] Failed to check if git graph is enabled [internal] Stream closed with error code NGHTTP2_REFUSED_STREAM
+2024-11-08 11:05:32.723 [error] Failed to check if git graph is enabled [internal] Stream closed with error code NGHTTP2_REFUSED_STREAM
+2024-11-08 11:20:32.740 [error] Failed to check if git graph is enabled [internal] Stream closed with error code NGHTTP2_REFUSED_STREAM
+2024-11-08 12:25:32.798 [error] Failed to check if git graph is enabled [internal] Stream closed with error code NGHTTP2_REFUSED_STREAM
+2024-11-08 13:05:32.832 [error] Failed to check if git graph is enabled [internal] Stream closed with error code NGHTTP2_REFUSED_STREAM
+2024-11-08 13:15:32.587 [error] Failed to check if git graph is enabled [internal] Stream closed with error code NGHTTP2_REFUSED_STREAM
+2024-11-08 13:40:32.494 [error] Failed to check if git graph is enabled [internal] Stream closed with error code NGHTTP2_REFUSED_STREAM
+2024-11-08 13:50:32.569 [error] Failed to check if git graph is enabled [internal] Stream closed with error code NGHTTP2_REFUSED_STREAM
+2024-11-08 14:45:32.553 [error] Failed to check if git graph is enabled [internal] Stream closed with error code NGHTTP2_REFUSED_STREAM
+2024-11-08 15:00:32.573 [error] Failed to check if git graph is enabled [internal] Stream closed with error code NGHTTP2_REFUSED_STREAM
+2024-11-08 15:25:32.637 [error] Failed to check if git graph is enabled [internal] Stream closed with error code NGHTTP2_REFUSED_STREAM
+2024-11-08 15:35:32.775 [error] Failed to check if git graph is enabled [internal] Stream closed with error code NGHTTP2_REFUSED_STREAM
+2024-11-08 15:50:32.597 [error] Failed to check if git graph is enabled [internal] Stream closed with error code NGHTTP2_REFUSED_STREAM
+2024-11-08 16:00:32.650 [error] Failed to check if git graph is enabled [internal] Stream closed with error code NGHTTP2_REFUSED_STREAM
+2024-11-08 16:10:32.638 [error] Failed to check if git graph is enabled [internal] Stream closed with error code NGHTTP2_REFUSED_STREAM
+2024-11-08 16:30:32.758 [error] Failed to check if git graph is enabled [internal] Stream closed with error code NGHTTP2_REFUSED_STREAM
+2024-11-08 16:55:32.637 [error] Failed to check if git graph is enabled [internal] Stream closed with error code NGHTTP2_REFUSED_STREAM
+2024-11-08 17:20:32.681 [error] Failed to check if git graph is enabled [internal] Stream closed with error code NGHTTP2_REFUSED_STREAM
+2024-11-08 17:30:32.753 [error] Failed to check if git graph is enabled [internal] Stream closed with error code NGHTTP2_REFUSED_STREAM

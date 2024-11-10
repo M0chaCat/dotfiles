@@ -1,0 +1,6 @@
+2024-11-09 14:04:56.547 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-toolsai.datawrangler' wants API proposal 'debugFocus' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-11-09 14:04:56.548 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'apidev.azure-api-center' wants API proposal 'chatParticipant' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-11-09 14:04:56.549 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'apidev.azure-api-center' wants API proposal 'languageModels' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-11-09 14:04:56.670 [warning] Creation of workbench contribution 'cursor.workbench.contrib.aiPanesContribution' took 34ms.
+2024-11-09 14:05:00.770 [info] Started local extension host with pid 779.
+2024-11-09 14:05:05.576 [info] [perf] Render performance baseline is 60ms

@@ -1,0 +1,367 @@
+{
+    "plugins": {
+        "nekohaxx:nekocord-settings": {
+            "enabled": true,
+            "test": "test",
+            "test2": "test2",
+            "test3": true,
+            "test4": false
+        },
+        "nekohaxx:disable-tracking": {
+            "enabled": true
+        },
+        "nekohaxx:enable-experiments": {
+            "enabled": true
+        },
+        "9021007:no-delete": {
+            "enabled": false
+        },
+        "eondiscord:no-devtools-warning": {
+            "enabled": true
+        },
+        "eondiscord:earthquake": {
+            "enabled": true,
+            "duration": 1465,
+            "intensity": 100
+        },
+        "9021007:nerdloading": {
+            "enabled": true,
+            "custom-title": "MEOW",
+            "custom-messages": "",
+            "merge-with-default": false
+        },
+        "nekohaxx:no-onboarding-delay": {
+            "enabled": true
+        },
+        "9021007:england": {
+            "enabled": false,
+            "engmode": true,
+            "ausmode": false
+        },
+        "nekohaxx:resizable-sidebars": {
+            "enabled": true,
+            "hide-resize-handles": true
+        },
+        "nekohaxx:nekocord": {
+            "enabled": true,
+            "verbose-start": true,
+            "verbose_start": false,
+            "disable_update_banner": false,
+            "repositories": "https://arcane.kitties.cat/, https://nekocord.dev/repo"
+        },
+        "arcane:themess": {
+            "enabled": false,
+            "midnightcatppuccin": false,
+            "SitelenPona": false,
+            "RainbowCrystals": false,
+            "LilyPichu": false,
+            "HorizontalServerList": false,
+            "dummy": true,
+            "SpotifyDiscord": false,
+            "MaterialDiscord": false,
+            "RadialStatus": false,
+            "Discolored": false,
+            "Discord11": false,
+            "piOS": false,
+            "NineX": false,
+            "DTM16": false,
+            "customCss": "/**  * @name         Arcane Tweaks  * @description  Minor tweaks that make discord better!  * @author       arcane  * @id arcane:arcanetweaks **/  /* A redesign of the Spotify activities in user popouts and profiles */ @import url(\"https://raw.githubusercontent.com/tom22k/discord-css/main/Themes/SpotifyRedesignV2.css\");  /* Displays the notice bar within the sidebar instead of positioning it at the top of the base container with Latin, German, & French translation. */ @import url(\"https://github.com/lazuee/css-snippets/raw/main/discord/sidebar-notice/import.css\");  /* Forum Improvements */ @import url(\"https://minidiscordthemes.github.io/Snippets/ForumImprovements/main.css\");  /* Be silly :3 */ @import url(\"https://aushevahmad.github.io/awesome-css/modules/custom-bar-prompt.css\"); :root {   --prompt-text: \"be silly :3\"; /* replace --prompt-text with your desired text if you want */ }  /* Bartender (only mac users will get it), Hide Discord's toolbar icons until you need them. */ @impo",
+            "Exponent": false,
+            "BottomHorizontalServerList": false,
+            "onekos": false,
+            "flashcord": false,
+            "modernindicators": false
+        },
+        "nekohaxx:nekocord_settings": {
+            "enabled": true,
+            "test": "test",
+            "test2": "test2",
+            "test3": false,
+            "test4": true
+        },
+        "nekohaxx:disable_tracking": {
+            "enabled": true
+        },
+        "nekohaxx:resizable_sidebars": {
+            "enabled": false,
+            "hide-resize-handles": false
+        },
+        "arcane:oneko": {
+            "enabled": false,
+            "hide": false,
+            "noSpellCheck": false
+        },
+        "arcane:AlwaysTrust": {
+            "enabled": true,
+            "untrusteddomain": true,
+            "PotentiallyDangerousDownload": true
+        },
+        "arcane:BetterGifPicker": {
+            "enabled": true
+        },
+        "arcane:BetterUploadButton": {
+            "enabled": false
+        },
+        "arcane:AnonymiseFileNames": {
+            "enabled": true,
+            "anonymiseByDefault": true,
+            "randomisedLength": 7,
+            "consistent": "image",
+            "method": "Random Characters"
+        },
+        "arcane:NoProfileThemes": {
+            "enabled": false
+        },
+        "eondiscord:no_devtools_warning": {
+            "enabled": true
+        },
+        "nekohaxx:no_onboarding_delay": {
+            "enabled": true
+        },
+        "arcane:ThornReplace": {
+            "enabled": true
+        },
+        "9021007:no_delete": {
+            "enabled": false,
+            "compact": true
+        },
+        "arcane:BetterNotesBox": {
+            "enabled": false,
+            "hide": true,
+            "noSpellCheck": true
+        },
+        "nekohaxx:enable_experiments": {
+            "enabled": true
+        },
+        "arcane:CtrlEnterSend": {
+            "enabled": false,
+            "submitRule": "cmd+enter",
+            "sendMessageInTheMiddleOfACodeBlock": true
+        },
+        "refact0r:508863359777505290": {
+            "enabled": true
+        },
+        "sitelen-pona.theme.css": {
+            "enabled": true
+        },
+        "PurplePrune.theme.css": {
+            "enabled": false
+        },
+        "ThemeConfig.theme.css": {
+            "enabled": false
+        },
+        "zFloat.theme.css": {
+            "enabled": false
+        },
+        "Material Discord theme.css": {
+            "enabled": false
+        },
+        "Discord11.theme.css": {
+            "enabled": false
+        },
+        "discolored.theme.css": {
+            "enabled": false
+        },
+        "arcane:AlwaysAnimate": {
+            "enabled": true
+        },
+        "arcane:BANger": {
+            "enabled": true,
+            "source": "https://i.imgur.com/wp5q52C.mp4"
+        },
+        "arcane:ColorSighted": {
+            "enabled": true
+        },
+        "arcane:BetterRoleDot": {
+            "enabled": true,
+            "bothStyles": true,
+            "copyRoleColorInProfilePopout": true
+        },
+        "undefined": {
+            "enabled": true,
+            "disableFade": true,
+            "organizeMenu": true,
+            "eagerLoad": true
+        },
+        "arcane:iLoveSpam": {
+            "enabled": true
+        },
+        "arcane:NoDevtoolsWarning": {
+            "enabled": true
+        },
+        "arcane:NoUnblockToJump": {
+            "enabled": true
+        },
+        "arcane:NSFWGateBypass": {
+            "enabled": false
+        },
+        "pythonplayer123:localblock": {
+            "enabled": false,
+            "userList": ""
+        },
+        "arcane:ShowHiddenThings": {
+            "enabled": true,
+            "showTimeouts": true,
+            "showInvitesPaused": true,
+            "showModView": true,
+            "disableDiscoveryFilters": true,
+            "  disableDisallowedDiscoveryFilters": true,
+            "disableDisallowedDiscoveryFilters": true
+        },
+        "arcane:Summaries": {
+            "enabled": true,
+            "undefined": 3
+        },
+        "vencord:TextReplace": {
+            "enabled": false
+        },
+        "arcane:CleanChannelNames": {
+            "enabled": true
+        },
+        "nekocord:emojiDumper": {
+            "enabled": false
+        },
+        "arcane:ShowAllMessageButtons": {
+            "enabled": true
+        },
+        "nekohaxx:old_profile_popout": {
+            "enabled": false
+        },
+        "nekohaxx:hide_blocked_users": {
+            "enabled": true,
+            "hide_blocked_messages": true,
+            "member_list": true
+        },
+        "arcane:NoTypingAnimation": {
+            "enabled": true
+        },
+        "arcane:ForceOwnerCrown": {
+            "enabled": true,
+            "disableNoisyLoggers": false,
+            "disableSpotifyLogger": true
+        },
+        "arcane:ConsoleJanitor": {
+            "enabled": false,
+            "disableNoisyLoggers": true,
+            "disableSpotifyLogger": true
+        },
+        "nekohaxx:better_sed": {
+            "enabled": true
+        },
+        "arcane:ArcaneTweaks": {
+            "enabled": false,
+            "CSS": true,
+            "css": true
+        },
+        "nekohaxx:nekocord_directory": {
+            "enabled": true
+        },
+        "arcane:atSomeone": {
+            "enabled": true
+        },
+        "arcane:UnreadMessageCount": {
+            "enabled": false
+        }
+    },
+    "themes": {
+        "refact0r:508863359777505290": {
+            "enabled": true
+        },
+        "sitelen-pona.theme.css": {
+            "enabled": true
+        },
+        "DevilBro:278543574059057154": {
+            "enabled": false
+        },
+        "SkeuoCord theme.css": {
+            "enabled": false
+        },
+        "zFloat.theme.css": {
+            "enabled": true
+        },
+        "feorev:489785940546551831": {
+            "enabled": false
+        },
+        "SiriusBYT:238429498239": {
+            "enabled": false
+        },
+        "neroist:508345334586505863": {
+            "enabled": true
+        },
+        "snapper:2349823482384": {
+            "enabled": false
+        },
+        "Nox.theme.css": {
+            "enabled": false
+        },
+        "arcane:508839559777505290": {
+            "enabled": true
+        },
+        "zuzumi:437579806616322049": {
+            "enabled": false
+        },
+        "dtm-16.nktheme.css": {
+            "enabled": false
+        },
+        "undefined": {
+            "enabled": false
+        },
+        "CapnKitten:20546983290234": {
+            "enabled": false
+        },
+        "refact0r:508863359463505290": {
+            "enabled": false
+        },
+        "Marda33:98123489198234": {
+            "enabled": false
+        },
+        "Catppuccin:508863359397505290": {
+            "enabled": false
+        },
+        "Catppuccin Mocha Lavender.theme.css": {
+            "enabled": false
+        },
+        "comfy.nktheme.css": {
+            "enabled": true
+        },
+        "comfyy.nktheme.css": {
+            "enabled": false
+        },
+        "Tropical:19235891384": {
+            "enabled": false
+        },
+        "Disease:6784695874440762": {
+            "enabled": false
+        },
+        "CapnKitten:6784695874440762": {
+            "enabled": false
+        },
+        "Lilian:13491932491": {
+            "enabled": false
+        },
+        "CrystalizedRainbowsConf.nktheme.css": {
+            "enabled": false
+        },
+        "CrystalizedRainbows.nktheme.css": {
+            "enabled": false
+        },
+        "arcane:sitelen pona": {
+            "enabled": true
+        },
+        "arcane:arcanetweaks": {
+            "enabled": true
+        },
+        "arcane:catmoji": {
+            "enabled": true
+        },
+        "FVUI theme.css": {
+            "enabled": false
+        },
+        "arcane:MeowTheme": {
+            "enabled": false
+        },
+        "Gibbu:912493128418": {
+            "enabled": false
+        }
+    }
+}

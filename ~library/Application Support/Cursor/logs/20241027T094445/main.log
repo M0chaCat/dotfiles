@@ -1,0 +1,16 @@
+2024-10-27 09:44:54.501 [info] update#setState disabled
+2024-10-27 09:44:54.506 [info] update#ctor - updates are disabled as there is no update URL
+2024-10-27 09:44:54.894 [error] [storage state.vscdb] error checking size of src.vs.platform.reactivestorage.browser.reactiveStorageServiceImpl.persistentStorage.workspaceUser: Error: Unexpected number of rows - 0
+2024-10-27 09:44:54.895 [error] [storage state.vscdb] error checking size of src.vs.platform.reactivestorage.browser.reactiveStorageServiceImpl.persistentStorage.workspaceUser: Error: Unexpected number of rows - 0
+2024-10-27 09:44:54.895 [error] [storage state.vscdb] error checking size of workbench.panel.aichat.view.aichat.chatdata: Error: Unexpected number of rows - 0
+2024-10-27 09:44:54.895 [error] [storage state.vscdb] error checking size of composer.composerData: Error: Unexpected number of rows - 0
+2024-10-27 09:44:54.896 [error] [storage state.vscdb] error checking size of workbench.panel.aichat.view.aichat.chatdata: Error: Unexpected number of rows - 0
+2024-10-27 09:44:54.896 [error] [storage state.vscdb] error checking size of composer.composerData: Error: Unexpected number of rows - 0
+2024-10-27 09:44:54.910 [error] [uncaught exception in main]: Error: SQLITE_CANTOPEN: unable to open database file
+2024-10-27 09:44:54.910 [error] Error: SQLITE_CANTOPEN: unable to open database file
+2024-10-27 09:44:54.917 [error] [uncaught exception in main]: Error: SQLITE_CANTOPEN: unable to open database file
+2024-10-27 09:44:54.917 [error] Error: SQLITE_CANTOPEN: unable to open database file
+2024-10-27 09:45:04.592 [error] Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+2024-10-27 09:45:04.593 [error] ptyHost was unable to resolve shell environment Unable to resolve your shell environment in a reasonable time. Please review your shell configuration and restart.
+2024-10-30 19:43:31.298 [info] Extension host with pid 1373 exited with code: 0, signal: unknown.
+2024-10-30 19:43:31.302 [error] [UtilityProcessWorker]: terminated unexpectedly with code 1835208672, signal: unknown

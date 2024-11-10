@@ -1,0 +1,5 @@
+2024-11-10 14:52:43.689 [info] Using repo backend url https://repo42.cursor.sh
+2024-11-10 14:52:44.041 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /Users/arcane/dotfiles/.git/MERGE_MSG
+2024-11-10 14:52:44.181 [info] Git graph is enabled
+2024-11-10 14:52:44.277 [info] Using repo backend url https://repo42.cursor.sh
+2024-11-10 14:52:44.277 [info] Git graph is enabled

@@ -1,0 +1,42 @@
+@use "sass:map" as *;
+
+@function add-font($font-family, $font-name) {
+  @return map.merge($font-family, ($font-name: $font-name));
+}
+
+@function get-fonts() {
+  @return map.new();
+}
+
+@function font-family($font-name) {
+  @return add-font(get-fonts(), $font-name);
+}
+
+@function font-face($font-name, $font-file) {
+  @font-face {
+    font-family: $font-name;
+    src: url($font-file) format('truetype');
+  }
+}
+
+
+@include generate-fonts();
+
+body {
+  font-family: sans-serif;
+}
+
+body * {
+  font-family: inherit;
+}
+
+@font-face {
+  font-family: 'Fairfax';
+  src: url('path-to-fairfax-font-file.ttf') format('truetype');
+  unicode-range: U+F1900-F194F;
+}
+
+body {
+  font-family: 'Fairfax', sans-serif;
+}
+

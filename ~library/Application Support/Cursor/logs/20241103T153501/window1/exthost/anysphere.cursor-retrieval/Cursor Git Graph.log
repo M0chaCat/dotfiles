@@ -1,0 +1,83 @@
+2024-11-03 15:35:03.775 [info] Using repo backend url https://repo42.cursor.sh
+2024-11-03 15:35:04.264 [info] Git graph is enabled
+2024-11-03 15:35:04.265 [info] Creating indexer for repo /Users/arcane/PersonalSite
+2024-11-03 15:35:04.628 [info] GitGraphIndexer initialized {"workspaceId":"gg_6c36e678-6582-4cbf-9e57-f31fa2bba35f","rootUri":"/Users/arcane/PersonalSite"}
+2024-11-03 15:35:05.016 [info] Using repo backend url https://repo42.cursor.sh
+2024-11-03 15:35:05.016 [info] Git graph is enabled
+2024-11-03 15:35:05.016 [info] Creating indexer for repo /Users/arcane/PersonalSite
+2024-11-03 15:35:05.914 [info] GitGraphIndexer initialized {"workspaceId":"gg_6c36e678-6582-4cbf-9e57-f31fa2bba35f","rootUri":"/Users/arcane/PersonalSite"}
+2024-11-03 15:35:06.565 [info] Getting related files {"relativePath":"Plugins/oneko.nkplugin.js"}
+2024-11-03 15:35:06.565 [info] Getting related files of encrypted relative path {"encryptedRelativePath":"G6gAYQe4Nfd7djnJRcc/7O08zEFunep7UnbZTWg.rsvh_aFF0tUe-iHYhwE.MZvMsTFNOYU8Dg"}
+2024-11-03 15:35:11.891 [info] Starting graph population {"rootUri":"/Users/arcane/PersonalSite"}
+2024-11-03 15:35:11.958 [info] Marked HEAD as pending {"headSha":"b951222d1cc2839c74d224d71624893beb357001","rootUri":"/Users/arcane/PersonalSite"}
+2024-11-03 15:35:12.592 [error] Initialization aborted
+2024-11-03 15:35:16.984 [info] Waiting before uploading commits, on request from server {"waitTimeMs":602.7772216796875,"rootUri":"/Users/arcane/PersonalSite"}
+2024-11-03 15:35:17.590 [info] No more pending commits. Waiting for 3 minutes before re-checking to see if the HEAD is updated. {"rootUri":"/Users/arcane/PersonalSite"}
+2024-11-03 15:35:22.115 [info] Using repo backend url https://repo42.cursor.sh
+2024-11-03 15:35:22.315 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /Users/arcane/NextOS - Equinox Max/your-code.js
+2024-11-03 15:35:22.603 [info] Git graph is enabled
+2024-11-03 15:35:22.606 [info] Using repo backend url https://repo42.cursor.sh
+2024-11-03 15:35:22.606 [info] Git graph is enabled
+2024-11-03 16:00:22.348 [error] Failed to check if git graph is enabled [internal] Stream closed with error code NGHTTP2_REFUSED_STREAM
+2024-11-03 16:20:22.352 [error] Failed to check if git graph is enabled [internal] Stream closed with error code NGHTTP2_REFUSED_STREAM
+2024-11-03 16:40:22.401 [error] Failed to check if git graph is enabled [internal] Stream closed with error code NGHTTP2_REFUSED_STREAM
+2024-11-03 16:50:22.440 [error] Failed to check if git graph is enabled [internal] Stream closed with error code NGHTTP2_REFUSED_STREAM
+2024-11-03 17:15:22.327 [error] Failed to check if git graph is enabled [internal] Stream closed with error code NGHTTP2_REFUSED_STREAM
+2024-11-03 17:45:22.346 [error] Failed to check if git graph is enabled [internal] Stream closed with error code NGHTTP2_REFUSED_STREAM
+2024-11-03 18:05:22.341 [error] Failed to check if git graph is enabled [internal] Stream closed with error code NGHTTP2_REFUSED_STREAM
+2024-11-03 18:15:22.455 [error] Failed to check if git graph is enabled [internal] Stream closed with error code NGHTTP2_REFUSED_STREAM
+2024-11-03 18:45:22.327 [error] Failed to check if git graph is enabled [internal] Stream closed with error code NGHTTP2_REFUSED_STREAM
+2024-11-03 19:05:22.326 [error] Failed to check if git graph is enabled [internal] Stream closed with error code NGHTTP2_INTERNAL_ERROR
+2024-11-03 19:35:22.278 [error] Failed to check if git graph is enabled [internal] Stream closed with error code NGHTTP2_REFUSED_STREAM
+2024-11-03 19:45:22.405 [error] Failed to check if git graph is enabled [internal] Stream closed with error code NGHTTP2_REFUSED_STREAM
+2024-11-03 19:56:01.262 [error] Failed to check if git graph is enabled [unavailable] read ETIMEDOUT
+2024-11-03 20:05:22.427 [error] Failed to check if git graph is enabled [internal] Stream closed with error code NGHTTP2_REFUSED_STREAM
+2024-11-03 20:20:22.291 [error] Failed to check if git graph is enabled [internal] Stream closed with error code NGHTTP2_REFUSED_STREAM
+2024-11-03 20:30:22.430 [error] Failed to check if git graph is enabled [internal] Stream closed with error code NGHTTP2_REFUSED_STREAM
+2024-11-03 20:45:22.340 [error] Failed to check if git graph is enabled [internal] Stream closed with error code NGHTTP2_REFUSED_STREAM
+2024-11-03 20:55:22.458 [error] Failed to check if git graph is enabled [internal] Stream closed with error code NGHTTP2_REFUSED_STREAM
+2024-11-03 21:15:22.285 [error] Failed to check if git graph is enabled [internal] Stream closed with error code NGHTTP2_REFUSED_STREAM
+2024-11-03 21:35:22.268 [error] Failed to check if git graph is enabled [internal] Stream closed with error code NGHTTP2_REFUSED_STREAM
+2024-11-03 21:45:22.395 [error] Failed to check if git graph is enabled [internal] Stream closed with error code NGHTTP2_REFUSED_STREAM
+2024-11-03 22:10:22.247 [error] Failed to check if git graph is enabled [internal] Stream closed with error code NGHTTP2_REFUSED_STREAM
+2024-11-03 22:23:14.541 [info] Using repo backend url https://repo42.cursor.sh
+2024-11-03 22:23:14.690 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /Users/arcane/nekocord/src/plugins/NekocordSettings/components/NekocordTab/NekocordTab.tsx
+2024-11-03 22:23:15.029 [info] Git graph is enabled
+2024-11-03 22:23:15.029 [info] Creating indexer for repo /Users/arcane/nekocord
+2024-11-03 22:23:15.056 [info] Using repo backend url https://repo42.cursor.sh
+2024-11-03 22:23:15.056 [info] Git graph is enabled
+2024-11-03 22:23:15.056 [info] Creating indexer for repo /Users/arcane/nekocord
+2024-11-03 22:23:15.462 [error] Initialization aborted
+2024-11-03 22:23:15.602 [info] GitGraphIndexer initialized {"workspaceId":"gg_ebc86927-a49e-476f-99aa-dd700558a3f1","rootUri":"/Users/arcane/nekocord"}
+2024-11-03 22:23:25.826 [info] Using repo backend url https://repo42.cursor.sh
+2024-11-03 22:23:26.237 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /Volumes/Untitled 1/app/RNPYDDLC1/game/python-packages/discord_rpc/__init__.py
+2024-11-03 22:23:26.322 [info] Git graph is enabled
+2024-11-03 22:23:26.341 [info] Using repo backend url https://repo42.cursor.sh
+2024-11-03 22:23:26.341 [info] Git graph is enabled
+2024-11-03 22:23:32.577 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /Users/arcane/Library/Application Support/nekocord/plugins/M0chaLibrary.nkplugin.js
+2024-11-03 22:26:06.805 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /Users/arcane/Library/Application Support/nekocord/M0chaLibrary.jsx
+2024-11-03 22:29:35.334 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /Users/arcane/Library/Application Support/nekocord/plugins/M0chaLibrary.nkplugin.js
+2024-11-03 22:29:47.725 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /Users/arcane/Library/Application Support/nekocord/M0chaLibrary.jsx
+2024-11-03 22:29:47.725 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /Users/arcane/Library/Application Support/nekocord/M0chaLibrary.jsx
+2024-11-03 22:31:45.993 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /Users/arcane/Library/Application Support/nekocord/plugins/M0chaLibrary.nkplugin.js
+2024-11-03 22:31:45.993 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /Users/arcane/Library/Application Support/nekocord/plugins/M0chaLibrary.nkplugin.js
+2024-11-03 22:33:06.808 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /Users/arcane/Library/Application Support/nekocord/M0chaLibrary.jsx
+2024-11-03 22:33:06.809 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /Users/arcane/Library/Application Support/nekocord/M0chaLibrary.jsx
+2024-11-03 22:38:25.639 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /Users/arcane/Library/Application Support/nekocord/plugins/UnlimitedAccounts.nkplugin.js
+2024-11-03 22:42:15.266 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /Users/arcane/Library/Application Support/nekocord/M0chaLibrary.jsx
+2024-11-04 00:58:59.921 [error] Failed to check if git graph is enabled [unavailable] read ETIMEDOUT
+2024-11-04 05:58:26.317 [error] Failed to check if git graph is enabled [internal] Stream closed with error code NGHTTP2_REFUSED_STREAM
+2024-11-04 09:23:26.501 [error] Failed to check if git graph is enabled [internal] Stream closed with error code NGHTTP2_REFUSED_STREAM
+2024-11-04 09:48:26.518 [error] Failed to check if git graph is enabled [internal] Stream closed with error code NGHTTP2_REFUSED_STREAM
+2024-11-04 11:13:26.558 [error] Failed to check if git graph is enabled [internal] Stream closed with error code NGHTTP2_REFUSED_STREAM
+2024-11-04 11:38:26.602 [error] Failed to check if git graph is enabled [internal] Stream closed with error code NGHTTP2_REFUSED_STREAM
+2024-11-04 11:53:26.601 [error] Failed to check if git graph is enabled [internal] Stream closed with error code NGHTTP2_REFUSED_STREAM
+2024-11-04 12:28:26.621 [error] Failed to check if git graph is enabled [internal] Stream closed with error code NGHTTP2_REFUSED_STREAM
+2024-11-04 13:53:26.671 [error] Failed to check if git graph is enabled [internal] Stream closed with error code NGHTTP2_REFUSED_STREAM
+2024-11-04 14:58:26.645 [error] Failed to check if git graph is enabled [internal] Stream closed with error code NGHTTP2_REFUSED_STREAM
+2024-11-04 15:13:26.752 [error] Failed to check if git graph is enabled [internal] Stream closed with error code NGHTTP2_REFUSED_STREAM
+2024-11-04 15:28:26.843 [error] Failed to check if git graph is enabled [internal] Stream closed with error code NGHTTP2_REFUSED_STREAM
+2024-11-04 15:38:26.926 [error] Failed to check if git graph is enabled [internal] Stream closed with error code NGHTTP2_REFUSED_STREAM
+2024-11-04 16:43:26.998 [error] Failed to check if git graph is enabled [internal] Stream closed with error code NGHTTP2_REFUSED_STREAM
+2024-11-04 17:04:07.030 [error] Failed to check if git graph is enabled [unavailable] read ETIMEDOUT
+2024-11-04 17:14:09.551 [error] Failed to check if git graph is enabled [unavailable] read ETIMEDOUT

@@ -1,0 +1,5 @@
+2024-11-09 14:34:29.145 [info] Using repo backend url https://repo42.cursor.sh
+2024-11-09 14:34:29.195 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /Users/arcane/NextOS - Equinox Max/your-code.js
+2024-11-09 14:34:29.497 [info] Git graph is enabled
+2024-11-09 14:34:30.124 [info] Using repo backend url https://repo42.cursor.sh
+2024-11-09 14:34:30.124 [info] Git graph is enabled

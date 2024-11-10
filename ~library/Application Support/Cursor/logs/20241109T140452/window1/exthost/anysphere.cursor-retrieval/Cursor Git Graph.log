@@ -1,0 +1,8 @@
+2024-11-09 14:05:11.487 [info] Using repo backend url https://repo42.cursor.sh
+2024-11-09 14:05:11.594 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /Users/arcane/NextOS - Equinox Max/your-code.js
+2024-11-09 14:05:12.018 [info] Git graph is enabled
+2024-11-09 14:05:12.415 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /Users/arcane/NextOS - Equinox Max/your-code.js
+2024-11-09 14:05:12.416 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /Users/arcane/NextOS - Equinox Max/your-code.js
+2024-11-09 14:05:12.474 [info] Using repo backend url https://repo42.cursor.sh
+2024-11-09 14:05:12.474 [info] Git graph is enabled
+2024-11-09 14:06:03.103 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /Users/arcane/NextOS - Equinox Max/10-13 5120x2880.png

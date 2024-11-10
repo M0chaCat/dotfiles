@@ -1,0 +1,14 @@
+2024-11-09 10:32:41.905 [info] Using repo backend url https://repo42.cursor.sh
+2024-11-09 10:32:41.905 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /Users/arcane/NextOS - Equinox Max/your-code.js
+2024-11-09 10:32:41.905 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /Users/arcane/NextOS - Equinox Max/your-code.js
+2024-11-09 10:32:41.905 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /Users/arcane/NextOS - Equinox Max/your-code.js
+2024-11-09 10:32:42.039 [info] Git graph is enabled
+2024-11-09 10:32:42.540 [info] Using repo backend url https://repo42.cursor.sh
+2024-11-09 10:32:42.540 [info] Git graph is enabled
+2024-11-09 10:32:53.852 [error] Failed to get cached related files... falling back to uncached No indexer found for file. Maybe not inside a git repo? /Users/arcane/NextOS - Equinox Max/your-code.js
+2024-11-09 10:32:53.853 [error] Failed to get related files No indexer found for file. Maybe not inside a git repo? /Users/arcane/NextOS - Equinox Max/your-code.js
+2024-11-09 10:42:42.226 [error] Failed to check if git graph is enabled [internal] Stream closed with error code NGHTTP2_REFUSED_STREAM
+2024-11-09 11:17:42.146 [error] Failed to check if git graph is enabled [internal] Stream closed with error code NGHTTP2_REFUSED_STREAM
+2024-11-09 11:32:42.147 [error] Failed to check if git graph is enabled [internal] Stream closed with error code NGHTTP2_REFUSED_STREAM
+2024-11-09 11:52:42.156 [error] Failed to check if git graph is enabled [internal] Stream closed with error code NGHTTP2_REFUSED_STREAM
+2024-11-09 12:07:42.194 [error] Failed to check if git graph is enabled [internal] Stream closed with error code NGHTTP2_REFUSED_STREAM

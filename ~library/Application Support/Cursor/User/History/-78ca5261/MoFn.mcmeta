@@ -1,0 +1,8 @@
+{
+	"pack": {
+		"description": "meow!",
+		"pack_format": 18,
+		"supported_formats": [18, 48]
+	}
+}
+

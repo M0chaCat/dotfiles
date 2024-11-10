@@ -1,0 +1,3 @@
+https://github.com/Masterjoona/vc-unreadcountbadge/blob/main/index.tsx //Show a badge in the channel list for unread messages (prolly ez)
+https://github.com/Domis-Vencord-Plugins/GlobalBadges/blob/main/index.tsx //global badges (prolly hard)
+https://github.com/Masterjoona/vc-triggerwarning/blob/main/index.ts //TriggerWarning (prolly ez)

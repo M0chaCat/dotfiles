@@ -1,0 +1,10 @@
+# Ignore the dist directory
+/dist/
+
+# Ignore the node_modules directory
+/node_modules/
+
+# Ignore the index folder
+/index/
+
+/.DS_Store

@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #1e1e2e;
+    color: #cdd6f4;
+}
+
+.screen {
+    display: none;
+}
+
+.screen.active {
+    display: block;
+}
+
+button, textarea {
+    background-color: #313244;
+    color: #cdd6f4;
+    border: none;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+#Celeste.Main.Dock {
+    display: flex;
+    justify-content: space-around;
+    background-color: #181825;
+    padding: 10px;
+}

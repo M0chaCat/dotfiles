@@ -1,0 +1,51 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  *:not(#tabbar>button), *::after, *::before, {
+    @apply select-none;
+    -webkit-user-drag: none;
+    -webkit-app-region: no-drag;
+  }
+
+  .light-img {
+    @apply opacity-50;
+  }
+
+  [id^=tab]>img {
+    @apply inline w-4 h-4 mr-2;
+  }
+
+  ::selection {
+    @apply text-white bg-indigo-500;
+  }
+}
+
+@layer components {
+  .tab {
+    @apply min-w-[4rem] flex items-center flex-1 max-w-xs px-2 py-1 overflow-hidden text-sm text-gray-700 bg-gray-100 hover:bg-gray-200 hover:transition rounded cursor-default whitespace-nowrap;
+  }
+
+  .active-tab {
+    @apply min-w-[4rem] flex items-center flex-1 max-w-xs px-2 py-1 overflow-hidden text-sm text-white bg-indigo-500 rounded cursor-default whitespace-nowrap;
+  }
+
+  .view {
+    @apply w-full h-full;
+  }
+}
+
+@layer utilities {
+  .hoverable:hover {
+    @apply bg-gray-200;
+  }
+
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+
+  .glass {
+    @apply bg-opacity-75 backdrop-blur-lg;
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "name": "equinoxmax",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "clean": "rimraf dist && echo > combined.js",
+    "combine": "node combine-scripts.js",
+    "build": "npm run clean && npm run combine && webpack",
+    "start": "npm run build && electron .",
+    "dist": "npm run build && electron-builder"
+  },
+  "author": "M0chaCat",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@babel/core": "^7.25.2",
+    "@babel/preset-env": "^7.25.4",
+    "babel-loader": "^9.2.1",
+    "electron": "^32.1.2",
+    "webpack": "^5.95.0",
+    "webpack-cli": "^5.1.4",
+    "@babel/plugin-transform-modules-commonjs": "^7.x.x",
+    "electron-builder": "^23.0.0"
+  },
+  "build": {
+    "icon": "normal.PNG",
+    "appId": "com.mochalabs.equinoxmax",
+    "files": [
+      "dist/**/*",
+      "index.html",
+      "main.js",
+      "*.png",
+      "*.PNG",
+      "*.gif",
+      "preload.bundle.js",
+      "styles.css"
+    ],
+    "asar": true,
+    "win": {
+      "target": [
+        {
+          "target": "nsis",
+          "arch": [
+            "x64",
+            "ia32"
+          ]
+        }
+      ],
+      "icon": "normal.PNG" 
+    }
+  }
+}

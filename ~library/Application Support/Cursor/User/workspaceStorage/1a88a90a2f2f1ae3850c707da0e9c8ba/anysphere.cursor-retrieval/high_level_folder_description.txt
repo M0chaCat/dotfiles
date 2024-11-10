@@ -1,0 +1,1 @@
+{"timestamp":1725076901178,"paths":["./ui.js","./DragHandler.js","./Bundles/NetStar.js","./Bundles/Calculator.js","./Bundles/Settings.js","./Bundles/Tips.js","./Bundles/TextEdit.js","./Bundles/Stickynote.js","./Bundles/Terminal.js","./firmware.js","./Bundles/Jukebox.js","./Main Code.js","./Celeste.code-workspace","./infofor AIs.txt"]}

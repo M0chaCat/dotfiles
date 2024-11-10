@@ -1,0 +1,38 @@
+2024-11-09 14:05:11.486 [info] Repo client: syncing embeddings with backend:  https://repo42.cursor.sh
+2024-11-09 14:05:11.617 [error] Error: Command failed: git config --get remote.origin.url
+
+	at genericNodeError (node:internal/errors:984:15)
+	at wrappedFn (node:internal/errors:538:14)
+	at ChildProcess.exithandler (node:child_process:422:12)
+	at ChildProcess.emit (node:events:519:28)
+	at maybeClose (node:internal/child_process:1105:16)
+	at Socket.<anonymous> (node:internal/child_process:457:11)
+	at Socket.emit (node:events:519:28)
+	at Pipe.<anonymous> (node:net:338:12)
+2024-11-09 14:05:11.707 [info] Creating merkle client.
+2024-11-09 14:05:11.707 [info] Done creating merkle client.
+2024-11-09 14:05:11.707 [info] Doing a startup handshake.
+2024-11-09 14:05:11.911 [info] Finished initializing merkle tree in 113.68283300000076 ms.
+2024-11-09 14:05:11.915 [info] Doing the initial handshake with hash: 63f3bd701831ad87178639a7c8fbfb876115385594a352889be05c960826303c
+2024-11-09 14:05:11.921 [info] Handshake start
+2024-11-09 14:05:12.177 [info] Handshake timing: 258.27287499999966
+2024-11-09 14:05:12.177 [info] Handshake result: {"status":"STATUS_UP_TO_DATE","repoName":"2f836200-7799-432a-86fc-4568889ef4bb"}
+2024-11-09 14:05:12.178 [info] Starting fast remote sync.
+2024-11-09 14:05:12.182 [info] Total num embeddable files: 19
+2024-11-09 14:05:12.188 [info] Root hash: 63f3bd701831ad87178639a7c8fbfb876115385594a352889be05c960826303c
+2024-11-09 14:05:12.188 [info] Finished indexing repository.
+2024-11-09 14:05:12.188 [info] Indexing job successfully done or aborted.
+2024-11-09 14:05:12.474 [info] Repo client: syncing embeddings with backend:  https://repo42.cursor.sh
+2024-11-09 14:05:12.476 [info] Creating merkle client.
+2024-11-09 14:05:12.476 [info] Done creating merkle client.
+2024-11-09 14:05:12.476 [info] Doing a startup handshake.
+2024-11-09 14:05:12.681 [info] Finished initializing merkle tree in 100.80508400000053 ms.
+2024-11-09 14:05:12.686 [info] Doing the initial handshake with hash: 63f3bd701831ad87178639a7c8fbfb876115385594a352889be05c960826303c
+2024-11-09 14:05:12.692 [info] Handshake start
+2024-11-09 14:05:13.024 [info] Handshake timing: 333.3437090000007
+2024-11-09 14:05:13.025 [info] Handshake result: {"status":"STATUS_UP_TO_DATE","repoName":"2f836200-7799-432a-86fc-4568889ef4bb"}
+2024-11-09 14:05:13.025 [info] Starting fast remote sync.
+2024-11-09 14:05:13.048 [info] Total num embeddable files: 19
+2024-11-09 14:05:13.056 [info] Root hash: 63f3bd701831ad87178639a7c8fbfb876115385594a352889be05c960826303c
+2024-11-09 14:05:13.056 [info] Finished indexing repository.
+2024-11-09 14:05:13.056 [info] Indexing job successfully done or aborted.

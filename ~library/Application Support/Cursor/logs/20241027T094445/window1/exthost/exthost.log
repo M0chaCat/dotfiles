@@ -1,0 +1,95 @@
+2024-10-27 09:45:06.158 [info] Extension host with pid 1373 started
+2024-10-27 09:45:06.158 [info] Skipping acquiring lock for /Users/arcane/Library/Application Support/Cursor/User/workspaceStorage/b99f6e799ed9801087b6187ca8fc693e.
+2024-10-27 09:45:06.164 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-10-27 09:45:06.168 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+2024-10-27 09:45:06.251 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-10-27 09:45:06.256 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-10-27 09:45:06.279 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-10-27 09:45:06.668 [info] Eager extensions activated
+2024-10-27 09:45:06.679 [info] ExtensionService#_doActivateExtension anysphere.cursor-always-local, startup: false, activationEvent: 'onStartupFinished'
+2024-10-27 09:45:06.764 [info] ExtensionService#_doActivateExtension anysphere.cursor-retrieval, startup: false, activationEvent: 'onStartupFinished'
+2024-10-27 09:45:06.864 [info] ExtensionService#_doActivateExtension anysphere.cursor-shadow-workspace, startup: false, activationEvent: 'onStartupFinished'
+2024-10-27 09:45:06.873 [info] ExtensionService#_doActivateExtension anysphere.cursor-tokenize, startup: false, activationEvent: 'onStartupFinished'
+2024-10-27 09:45:07.083 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-10-27 09:45:07.086 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-10-27 09:45:07.092 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc, startup: false, activationEvent: 'onStartupFinished'
+2024-10-27 09:45:07.103 [info] ExtensionService#_doActivateExtension tonybaloney.vscode-pets, startup: false, activationEvent: 'onStartupFinished'
+2024-10-27 09:45:07.832 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-10-30 19:43:31.016 [info] Extension host terminating: renderer closed the MessagePort
+2024-10-30 19:43:31.126 [error] Canceled: Canceled
+	at new I (/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:35388)
+	at P.U (/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:167:6021)
+	at Y.<computed>.H.charCodeAt.L.CharCode.DollarSign.Y.<computed> (/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:167:3108)
+	at w.g (/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:170:212658)
+	at w.executeCommand (/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:170:212096)
+	at J.registerCommand.description (/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:170:211420)
+	at w.h (/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:170:213197)
+	at w.g (/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:170:212189)
+	at w.executeCommand (/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:170:212096)
+	at Object.executeCommand (/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:180:34158)
+	at l.O [as value] (/Applications/Cursor.app/Contents/Resources/app/extensions/git/dist/main.js:2:954058)
+	at i.B (/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:91:734)
+	at i.C (/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:91:804)
+	at i.fire (/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:91:1020)
+	at Object.f [as dispose] (/Applications/Cursor.app/Contents/Resources/app/extensions/git/dist/main.js:2:974651)
+	at /Applications/Cursor.app/Contents/Resources/app/extensions/git/dist/main.js:2:980773
+	at Array.forEach (<anonymous>)
+	at y.dispose (/Applications/Cursor.app/Contents/Resources/app/extensions/git/dist/main.js:2:980759)
+	at r.<anonymous> (/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:168:4198)
+	at r.dispose (/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:168:4297)
+	at r.<anonymous> (/Applications/Cursor.app/Contents/Resources/app/extensions/git/dist/main.js:2:956356)
+	at r.dispose (/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:168:4297)
+	at T (/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:744)
+	at /Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:13756
+	at /Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:1112
+	at Object.dispose (/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:12:11109)
+	at h.eb (/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:10356)
+	at /Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:8188
+	at Array.map (<anonymous>)
+	at h.$ (/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:8175)
+	at h.terminate (/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:8451)
+	at T.terminate (/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:180:1511)
+	at c (/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:193:10636)
+	at MessagePortMain.<anonymous> (/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:193:6828)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2619) setContext undefined
+2024-10-30 19:43:31.137 [error] Canceled: Canceled
+	at new I (/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:35388)
+	at P.U (/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:167:6021)
+	at Y.<computed>.H.charCodeAt.L.CharCode.DollarSign.Y.<computed> (/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:167:3108)
+	at w.g (/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:170:212658)
+	at w.executeCommand (/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:170:212096)
+	at J.registerCommand.description (/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:170:211420)
+	at w.h (/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:170:213197)
+	at w.g (/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:170:212189)
+	at w.executeCommand (/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:170:212096)
+	at Object.executeCommand (/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:180:34158)
+	at set hasGitHubRepositories (/Applications/Cursor.app/Contents/Resources/app/extensions/github/dist/extension.js:2:322968)
+	at /Applications/Cursor.app/Contents/Resources/app/extensions/github/dist/extension.js:2:323927
+	at l.value (/Applications/Cursor.app/Contents/Resources/app/extensions/git/dist/main.js:2:1065688)
+	at i.B (/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:91:734)
+	at i.C (/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:91:804)
+	at i.fire (/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:91:1020)
+	at Object.f [as dispose] (/Applications/Cursor.app/Contents/Resources/app/extensions/git/dist/main.js:2:974651)
+	at /Applications/Cursor.app/Contents/Resources/app/extensions/git/dist/main.js:2:980773
+	at Array.forEach (<anonymous>)
+	at y.dispose (/Applications/Cursor.app/Contents/Resources/app/extensions/git/dist/main.js:2:980759)
+	at r.<anonymous> (/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:168:4198)
+	at r.dispose (/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:168:4297)
+	at r.<anonymous> (/Applications/Cursor.app/Contents/Resources/app/extensions/git/dist/main.js:2:956356)
+	at r.dispose (/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:168:4297)
+	at T (/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:744)
+	at /Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:13756
+	at /Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:31:1112
+	at Object.dispose (/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:12:11109)
+	at h.eb (/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:10356)
+	at /Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:8188
+	at Array.map (<anonymous>)
+	at h.$ (/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:8175)
+	at h.terminate (/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:8451)
+	at T.terminate (/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:180:1511)
+	at c (/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:193:10636)
+	at MessagePortMain.<anonymous> (/Applications/Cursor.app/Contents/Resources/app/out/vs/workbench/api/node/extensionHostProcess.js:193:6828)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2619) setContext undefined
+2024-10-30 19:43:31.138 [info] Extension host with pid 1373 exiting with code 0
