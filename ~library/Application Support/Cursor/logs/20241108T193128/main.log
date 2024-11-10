@@ -1,5 +1,0 @@
-2024-11-08 19:31:30.415 [info] update#setState disabled
-2024-11-08 19:31:30.462 [info] update#ctor - updates are disabled as there is no update URL
-2024-11-08 22:17:05.833 [info] Extension host with pid 837 exited with code: 0, signal: unknown.
-2024-11-08 22:17:05.992 [error] [UtilityProcessWorker]: terminated unexpectedly with code 1864568832, signal: unknown
-2024-11-08 22:17:06.000 [error] Blocked vscode-file request vscode-file://vscode-app/Applications/Cursor.app/Contents/Resources/app/out/vs/base/worker/workerMain.js#TextEditorWorker
